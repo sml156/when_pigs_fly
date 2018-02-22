@@ -2,6 +2,7 @@
 PiHole Whitelist
 
 Edit manually
+
 sudo nano /etc/pihole/whitelist.txt
 
 
