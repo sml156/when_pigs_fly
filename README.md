@@ -20,3 +20,4 @@ sudo curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whit
 
 sudo nano /etc/pihole/whitelist.txt
 
+Tryin VS this is a test
