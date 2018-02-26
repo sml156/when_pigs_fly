@@ -29,6 +29,7 @@ bing.com
 bitbucket.org
 bt.co
 cdnjs.cloudflare.com
+chronicle.su
 clients3.google.com
 clients4.google.com
 coin-hive.com
@@ -161,5 +162,6 @@ www.unixmen.com
 www.vmware.com
 www.youtube.com
 yahoo.com
+youtu.be
 youtube.com
 zeustracker.abuse.ch
