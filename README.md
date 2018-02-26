@@ -2,6 +2,7 @@
 PiHole Whitelist
 
 Note:
+
 I made this whitelist for me, anyone reading this should make their own based on their browsing habbits.
 
 # Update addlists
