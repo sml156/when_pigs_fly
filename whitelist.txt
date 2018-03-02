@@ -43,7 +43,10 @@ askubuntu.com
 aviationweather.gov
 b.thumbs.redditmedia.com
 bing.com
+bitbucket.org
+canadianoutages.com
 ccleaner.tools.avcdn.net
+cdnjs.cloudflare.com
 chronicle.su
 coin-hive.com
 crl.microsoft.com
@@ -53,6 +56,7 @@ digitalocean.com
 disq.us
 disqus.com
 docs.live.net
+downdetector.com
 download.windowsupdate.com
 downloads.lede-project.org
 downloads2.lede-project.org
@@ -87,14 +91,17 @@ icanhazip.com
 imap.gmail.com
 imap.mail.yahoo.com
 img.feedly.com
+img.youtube.com
 imgs.xkcd.com
 imgur.com
 inference.location.live.net
 ipinfo.info
 ipinfo.io
 isc.org
+itknowledgeexchange.techtarget.com
 jalopnik.com
 joewein.net
+lifehacker.com
 linuxconfig.disqus.com
 linuxconfig.org
 live.github.com
