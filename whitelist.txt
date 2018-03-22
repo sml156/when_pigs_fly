@@ -45,6 +45,7 @@ b.thumbs.redditmedia.com
 bing.com
 bitbucket.org
 canadianoutages.com
+ccleaner.com
 ccleaner.tools.avcdn.net
 cdnjs.cloudflare.com
 chronicle.su
@@ -118,6 +119,7 @@ mobilesyrup.com
 ntp.ubuntu.com
 ntp.ubuntu.com.lan
 ntp.ubuntu.com.local
+o.aolcdn.com
 office.com
 office.net
 officeclient.microsoft.com
@@ -160,6 +162,7 @@ sysctl.org
 sysnative.com
 techgenix.com
 tecmint.com
+telemetry.malwarebytes.com
 tenforums.com
 thedailywtf.com
 thepiratebay.org
@@ -198,6 +201,7 @@ www.billauer.co.il
 www.bing.com
 www.blogger.com
 www.bt.co
+www.ccleaner.com
 www.cyberciti.biz
 www.debian.org
 www.digitalocean.com
