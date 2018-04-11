@@ -5,7 +5,7 @@ Note:I made this whitelist for me, anyone reading this should make their own bas
 
 # Update addlists
 
-sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=all | sudo tee /etc/pihole/adlists.list
+sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | sudo tee /etc/pihole/adlists.list
 
 # Edit addlists
 
