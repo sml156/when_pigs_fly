@@ -1,7 +1,8 @@
 # when_pigs_fly
 PiHole Whitelist
 
-Note:I made this whitelist for me, anyone reading this should make their own based on their browsing habbits.
+Note:
+I made this whitelist for me, anyone reading this should make their own based on their browsing habbits. Your welcome to use it but you really should make your own.
 
 # Update addlists
 
