@@ -134,6 +134,7 @@ out.reddit.com
 outlook.office.com
 outlook.office365.com
 pill.com
+pixel.wp.com
 ransomwaretracker.abuse.ch
 raspberrypi.org
 raw.github.com
@@ -158,6 +159,7 @@ speedtest.net
 stackexchange.com
 stackoverflow.com
 start.ubuntu.com
+stats.wp.com
 sysctl.org
 sysnative.com
 techgenix.com
