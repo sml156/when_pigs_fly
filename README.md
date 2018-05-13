@@ -12,6 +12,15 @@ sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | sudo tee /etc/
 
 sudo nano /etc/pihole/adlists.list
 
+# Update blacklists and gravity
+sudo -s
+
+sudo curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt > /etc/pihole/blacklist.txt && pihole -g
+
+
+exit
+
+
 # Update whitelists and gravity
 sudo -s
 
