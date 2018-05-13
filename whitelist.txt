@@ -1,3 +1,4 @@
+0.00000000 sudo nano /etc/pihole/whitelist.txt
 0.debian.pool.ntp.org
 0.lede.pool.ntp.org
 0.openwrt.pool.ntp.org
@@ -52,6 +53,7 @@ chronicle.su
 coin-hive.com
 crl.microsoft.com
 cyberciti.biz
+d.ghostery.com
 debian.org
 digitalocean.com
 disq.us
