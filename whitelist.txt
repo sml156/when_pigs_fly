@@ -74,6 +74,7 @@ geo.yahoo.com
 gist.githubusercontent.com
 github.com
 github.io
+githubusercontent.com
 google.ca
 google.com
 googleapis.com
@@ -87,6 +88,7 @@ herald.spiceworks.com
 hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
+howtogeek.com
 i-technet.sec.s-msft.com
 i.media-imdb.com
 icanhazip.com
