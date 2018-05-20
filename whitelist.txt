@@ -115,6 +115,7 @@ login.yahoo.com
 lubuntu.me
 lubuntu.net
 malwaredomainlist.com
+medium.com
 microsoft.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
@@ -219,6 +220,7 @@ www.google.com
 www.googleapis.com
 www.gravatar.com
 www.gstatic.com
+www.howtogeek.com
 www.isc.org
 www.joewein.net
 www.kis.fri.uniza.sk
