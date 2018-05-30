@@ -1,3 +1,4 @@
+0.00000000 sudo nano /etc/pihole/whitelist.txt
 0.debian.pool.ntp.org
 0.lede.pool.ntp.org
 0.openwrt.pool.ntp.org
@@ -17,6 +18,7 @@
 3.lede.pool.ntp.org
 3.openwrt.pool.ntp.org
 3.ubuntu.pool.ntp.org
+a-0011.a-msedge.net
 accounts.google.com
 accounts.spiceworks.com
 activity.windows.com
@@ -44,6 +46,7 @@ aviationweather.gov
 b.thumbs.redditmedia.com
 bing.com
 bitbucket.org
+c.live.com
 canadianoutages.com
 ccleaner.com
 ccleaner.tools.avcdn.net
@@ -116,6 +119,7 @@ lubuntu.me
 lubuntu.net
 malwaredomainlist.com
 medium.com
+medium.freecodecamp.org
 microsoft.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
@@ -151,6 +155,8 @@ redirector.googlevideo.com
 redtube.com
 router.bittorrent.com
 router.utorrent.com
+s.wp.com
+s1.wp.com
 s3.amazonaws.com
 s5.feedly.com
 s5.files.wordpress.com
