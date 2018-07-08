@@ -23,11 +23,11 @@ exit
 
 # misc commands
 
-# Top Domains (Those which aren't blocked):
+# View Top Domains (Those which aren't blocked):
 nc "127.0.0.1" "$(cat /var/run/pihole-FTL.port)" -q 1 <<< ">top-domains(130)"
-# Blocked Domains:
+# View Blocked Domains:
 nc "127.0.0.1" "$(cat /var/run/pihole-FTL.port)" -q 1 <<< ">top-ads(130)"
-# Single client
+# View Single client
 nc "127.0.0.1" "$(cat /var/run/pihole-FTL.port)" -q 1 <<< ">getallqueries-client 192.168.200.221"  
 # Edit addlists
 sudo nano /etc/pihole/adlists.list
