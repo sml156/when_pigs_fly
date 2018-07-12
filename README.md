@@ -2,20 +2,19 @@
 PiHole Whitelist & Blacklist
 
 Note:
-I made this whitelist for me, anyone reading this should make their own based on their browsing habbits. Your welcome to use it but you really should make your own.
+I made this Blaclist and whitelist for me, anyone reading this should make their own based on their browsing habbits. Your welcome to use it but you really should make your own.
 
-# Update addlists
+# Update addlists From firebog
+sudo -s
 
 sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | sudo tee /etc/pihole/adlists.list
 
-# Update blacklists and gravity
-sudo -s
+# Update blacklists that I added
 
 sudo curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt > /etc/pihole/blacklist.txt
 
 
-# Update whitelists and gravity
-sudo -s
+# Update whitelists that I added and gravity
 
 sudo curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt > /etc/pihole/whitelist.txt && pihole -g
 
