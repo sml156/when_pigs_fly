@@ -1,5 +1,3 @@
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
 wpad.lan
 wpad.local
 z.moatads.com
