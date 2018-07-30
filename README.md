@@ -2,7 +2,7 @@
 PiHole Whitelist & Blacklist
 
 Note:
-I made this Blaclist and whitelist for me, anyone reading this should make their own based on their browsing habbits. Your welcome to use it but you really should make your own.
+I made this Blacklist and whitelist for me, anyone reading this should make their own based on their browsing habbits. Your welcome to use it but you really should make your own.
 
 # Update addlists From firebog
 sudo -s
@@ -31,3 +31,5 @@ nc "127.0.0.1" "$(cat /var/run/pihole-FTL.port)" -q 1 <<< ">getallqueries-client
 # Edit addlists
 sudo nano /etc/pihole/adlists.list
 
+# Is PiHole's DNS borked for who knows what reason now, Temporary fix till reboot
+echo "nameserver 1.1.1.1" | sudo tee -a /etc/resolv.conf
