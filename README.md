@@ -31,5 +31,7 @@ nc "127.0.0.1" "$(cat /var/run/pihole-FTL.port)" -q 1 <<< ">getallqueries-client
 # Edit addlists
 sudo nano /etc/pihole/adlists.list
 
-# Is PiHole's DNS borked for who knows what reason now, Temporary fix till reboot
+# Is PiHole's DNS borked for who knows what reason now
+Temporary fix till reboot
+
 echo "nameserver 1.1.1.1" | sudo tee -a /etc/resolv.conf
