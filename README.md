@@ -35,3 +35,5 @@ sudo nano /etc/pihole/adlists.list
 Temporary fix till reboot
 
 echo "nameserver 1.1.1.1" | sudo tee -a /etc/resolv.conf
+![alt tag](https://user-images.githubusercontent.com/26722257/44434955-d6e9b100-a57b-11e8-954b-2ed67ac7224d.png)
+
