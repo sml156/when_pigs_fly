@@ -128,6 +128,7 @@ broadbandnow.com
 buffer.com
 bumpgen.com
 bwbx.io
+c.bing.com
 c.disquscdn.com
 c.live.com
 calendar.google.com
@@ -206,6 +207,7 @@ d2spmqy4pos7su.cloudfront.net
 darknet.org.uk
 debian.org
 deusm.com
+dev.virtualearth.net
 dfkrkqaqb1zsx.cloudfront.net
 diablohorn.files.wordpress.com
 didierstevens.files.wordpress.com
@@ -229,6 +231,7 @@ dshield.org
 dslreports.com
 dzpp79ucibp5a.cloudfront.net
 easylist.to
+ecn.dev.virtualearth.net
 econlib.org
 econlog.econlib.org
 eff.org
@@ -316,6 +319,7 @@ i0.wp.com
 i1.wp.com
 i18n-cloud.appspot.com
 i2.wp.com
+ib.adnxs.com
 icanhazip.com
 ichef-1.bbci.co.uk
 ichef.bbci.co.uk
@@ -452,6 +456,7 @@ ooyala.com
 openshift.com
 openwrt.org
 ospserver.net
+otf.msn.com
 out.reddit.com
 out.sh
 outlook.live.com
@@ -693,6 +698,7 @@ www.aviationweather.gov
 www.backblaze.com
 www.billauer.co.il
 www.bing.com
+www.bizographics.com
 www.blogger.com
 www.bna.com
 www.brianbien.com
