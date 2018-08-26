@@ -45,4 +45,4 @@ echo "$(tput setaf 0) $(tput setab 7)               ...Done...                  
 # pihole -g
 
 
-#  sudo curl -sSL https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist.sh | sh
+#  sudo curl -sSL https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist.sh | ./
