@@ -1,4 +1,8 @@
 # when_pigs_fly
+
+# Trying this -- Gets everything below
+sudo curl -sSL https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist.sh | bash
+
 PiHole Whitelist & Blacklist
 
 Note:
