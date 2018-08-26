@@ -7,6 +7,8 @@
 # https://pi-hole.net/blog/
 # https://twitter.com/The_Pi_Hole
 
+#  sudo curl -sSL https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist.sh | bash
+
 
 
 if [ "$(id -u)" != "0" ] ; then
@@ -45,4 +47,4 @@ echo "$(tput setaf 0) $(tput setab 7)               ...Done...                  
 # pihole -g
 
 
-#  sudo curl -sSL https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist.sh | ./
+
