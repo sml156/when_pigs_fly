@@ -35,10 +35,11 @@ echo "$(tput setaf 0) $(tput setab 7)               ...Done...                  
 
 sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | sudo tee /etc/pihole/personal-adlists.list
 
+
 # Uncomment  if you have /etc/pihole/personal-adlists.list
 
 
-cat /etc/pihole/personal-adlists.list <(wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross 2> /dev/null) | sudo tee /etc/pihole/adlist.list
+cat /etc/pihole/personal-adlists.list <(wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross 2> /dev/null) | sudo tee /etc/pihole/adlists.list
 
 # wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross 2 | sudo tee /etc/pihole/adlists.list
 echo "$(tput setaf 0) $(tput setab 7)               ...Done...                    $(tput sgr 0)"
