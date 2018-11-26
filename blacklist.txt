@@ -1,3 +1,4 @@
 wpad.lan
 wpad.local
 z.moatads.com
+searchers13.club  # malware serch site
