@@ -52,6 +52,7 @@ adaway.org
 adblock.mahakala.is
 addictivetips.com
 adriancolyer.files.wordpress.com
+affiliate.zap2it.com
 afterdawn.fi
 agnihotry.com
 ajax.cloudflare.com
@@ -277,8 +278,11 @@ gist.githubusercontent.com
 github.com
 github.io
 githubusercontent.com
+gitlab.com
 gitter.im
+glotorrents.pw
 go-mpulse.net
+go.theregister.com
 google.ca
 google.com
 googleapis.com
@@ -353,6 +357,7 @@ intel.com
 ipinfo.info
 ipinfo.io
 ipspace.net
+ipv6.he.net
 irishtimes.com
 isc.org
 isc.sans.edu
@@ -457,6 +462,7 @@ openshift.com
 openwrt.org
 ospserver.net
 otf.msn.com
+oth.eve.mdt.qq.com
 out.reddit.com
 out.sh
 outlook.live.com
@@ -480,6 +486,7 @@ player.ooyala.com
 plus.google.com
 pmcvariety.files.wordpress.com
 polyfill.io
+pornhub.com
 portableapps.com
 potsandpansbyccg.com
 profile.wunderground.com
@@ -489,6 +496,7 @@ q.stripe.com
 queue.acm.org
 r-login.wordpress.com
 r000t.com
+r3---sn-gvbxgn-tvve.googlevideo.com
 ransomwaretracker.abuse.ch
 raspberrypi.org
 raw.github.com
@@ -513,6 +521,7 @@ router.utorrent.com
 s.aolcdn.com
 s.blogsmithmedia.com
 s.go-mpulse.net
+s.reddit.com
 s.swiftypecdn.com
 s.w-x.co
 s.w.org
@@ -757,6 +766,7 @@ www.ospserver.net
 www.partitionwizard.com
 www.petri.com
 www.pill.com
+www.pornhub.com
 www.raspberrypi.org
 www.reddit.com
 www.redditmedia.com
