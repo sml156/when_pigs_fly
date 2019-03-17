@@ -658,6 +658,7 @@ sciencemag.org
 scientificamerican.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
+seclists.org
 secretlifeofsynthesizers.com
 secure.dshield.org
 secure.gravatar.com
@@ -932,6 +933,7 @@ www.redtube.com
 www.reviewgeek.com
 www.sa-blacklist.stearns.org
 www.scientificamerican.com
+www.seclists.org
 www.securityweek.com
 www.sfgate.com
 www.snopes.com
