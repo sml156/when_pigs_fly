@@ -4,6 +4,7 @@ accuweather.brightspotcdn.com
 accuweather.com
 acm.org
 activity.windows.com
+ad.apps.fm
 adaway.org
 adb.juvander.net
 adblock.dk
@@ -29,6 +30,7 @@ android.clients.google.com
 android.googleapis.com
 androidandme.com
 androidpolice.com
+answers.microsoft.com
 aol.com
 aolcdn.com
 api-ak.wunderground.com
@@ -74,6 +76,7 @@ b.tiles.mapbox.com
 backblaze.com
 badges.gitter.im
 banners.spiceworks.com
+bbc.com
 bbci.co.uk
 bbs.boingboing.net
 begriffs.com
@@ -653,6 +656,7 @@ securingtomorrow.mcafee.com
 securityweek.com
 semiaccurate.com
 sendbird.reddit.com
+serverfault.com
 services.disqus.com
 services.sonarr.tv
 sfgate.com
@@ -736,6 +740,7 @@ techgenix.com
 techhive.com
 technode.com
 technologyreview.com
+techradar.com
 techrepublic.com
 techsupportalert.com
 tecmint.com
@@ -860,10 +865,13 @@ wunderground.com
 www-gm-opensocial.googleusercontent.com
 www-opensocial.googleusercontent.com
 www.accuweather.com
+www.ad.apps.fm
 www.amazon.com
 www.androidpolice.com
+www.answers.microsoft.com
 www.aviationweather.gov
 www.backblaze.com
+www.bbc.com
 www.bell.ca
 www.billauer.co.il
 www.bing.com
@@ -960,6 +968,7 @@ www.sa-blacklist.stearns.org
 www.scientificamerican.com
 www.seclists.org
 www.securityweek.com
+www.serverfault.com
 www.sfgate.com
 www.snopes.com
 www.southsimcoepolice.on.ca
@@ -971,6 +980,7 @@ www.stuff.co.nz
 www.subtome.com
 www.sysnative.com
 www.techbriefs.com
+www.techradar.com
 www.techrepublic.com
 www.techsupportalert.com
 www.tecmint.com
