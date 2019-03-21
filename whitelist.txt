@@ -1,3 +1,5 @@
+2.android.pool.ntp.org
+3.bp.blogspot.com
 accounts.google.com
 accounts.spiceworks.com
 accuweather.brightspotcdn.com
@@ -37,6 +39,7 @@ api-ak.wunderground.com
 api-cdn.embed.ly
 api.accounts.firefox.com
 api.accuweather.com
+api.asm.skype.com
 api.fing.io
 api.github.com
 api.login.yahoo.com
@@ -172,6 +175,7 @@ content.spiceworksstatic.com
 continuum.dds.microsoft.com
 core.windows.net
 cornell.edu
+cp801-prod.do.dsp.mp.microsoft.com
 creative.ak.fbcdn.net 
 cringely.com
 crl.microsoft.com
@@ -184,6 +188,8 @@ cyclingtips.com
 cyclingtips.disqus.com
 d-cal.com
 d.ghostery.com
+d15zn84cat5tp0.cloudfront.net
+d3p2jlw8pmhccg.cloudfront.net
 darknet.org.uk
 dashboard.plex.tv
 debian.org
@@ -220,6 +226,7 @@ downdetector.com
 download.sonarr.tv
 download.windowsupdate.com
 downloads.lede-project.org
+downloads.openwrt.org
 downloads.sourceforge.net
 downloads2.lede-project.org
 drive.google.com
@@ -246,13 +253,17 @@ engadget.com
 eurogamer.net
 extremelearning.com.au
 eztv.ag
+eztv.io
 f-droid.org
 f.kinja-static.com
 f1-na.readspeaker.com
 fakespot.com
+fallback-v4.ipv6-test.com
 fark.com
 fark.net
 farm3.static.flickr.com
+farm3.staticflickr.com
+farm8.staticflickr.com
 fast.com
 fastmail.com
 fave.api.cnn.io
@@ -273,6 +284,7 @@ fonts.googleapis.com
 fonts.smdg.ca
 forum-lw-1.xda-cdn.com
 forum.lede-project.org
+forum.openwrt.org
 forum.xda-cdn.com
 forum.xda-developers.com
 forums.macrumors.com
@@ -292,12 +304,14 @@ gatesnotes.com
 gateway.messenger.live.com
 gateway.reddit.com
 gekko.spiceworks.com
+geo-prod.do.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com 
 geo.yahoo.com
 geocities.jp
 ggzscjytvidq
 ghacks.net
 gist.githubusercontent.com
+gitcdn.xyz
 github-production-release-asset-2e65be.s3.amazonaws.com
 github.com
 github.githubassets.com
@@ -342,8 +356,11 @@ hostsfile.mine.nu
 hostsfile.org
 howtogeek.com
 howtogeek.disqus.com
+hq.talkingpointsmemo.com
 hubspot.com
 hulu.com
+i-64.b-45146.ut.bench.utorrent.com
+i.dslr.net
 icanhazip.com
 ichef-1.bbci.co.uk
 ichef.bbci.co.uk
@@ -383,6 +400,7 @@ interactives.stuff.co.nz
 ipinfo.info
 ipinfo.io
 ipspace.net
+ipv6-test.com
 ipv6.he.net
 irhrvnacj
 irishtimes.com
@@ -403,6 +421,7 @@ kinja-img.com
 krebsonsecurity.com
 krypt3ia.files.wordpress.com
 krypt3ia.wordpress.com
+kv801-prod.do.dsp.mp.microsoft.com
 latimes.com
 latimesblogs.latimes.com
 lede-project.org
@@ -421,6 +440,7 @@ live.github.com
 login.live.com
 login.wikimedia.org
 login.yahoo.com
+lookpic.com
 lubuntu.me
 lubuntu.net
 m.hotmail.com 
@@ -470,6 +490,7 @@ myaccount.google.com
 myopenrouter.com
 mywot.com
 nationalgeographic.com
+ndt-iupui-mlab1-yyz02.measurement-lab.org
 nebula-cdn.kampyle.com
 neow.in
 neowin.net
@@ -509,6 +530,7 @@ omt.garmin.com
 onedrive.live.com
 onenote.com
 onepush.query.yahoo.com
+onerm.olsvc.com
 ooyala.com
 open-commenting.azureedge.net
 openshift.com
@@ -662,6 +684,7 @@ services.sonarr.tv
 sfgate.com
 shop.lego.com
 sio-1.livestream.com
+skydrive.wns.windows.com
 skyhook.sonarr.tv
 slashdot.org
 slatestarcodex.com
@@ -730,6 +753,7 @@ swiftypecdn.com
 sysctl.org
 sysnative.com
 t.co
+talkingpointsmemo.com
 target.com
 tchyn.io
 tctechcrunch2011.files.wordpress.com
@@ -743,6 +767,7 @@ technologyreview.com
 techradar.com
 techrepublic.com
 techsupportalert.com
+techtarget.com
 tecmint.com
 telemetry.malwarebytes.com
 tenforums.com
@@ -781,6 +806,7 @@ translate.google.com
 translate.googleapis.com
 translate.googleusercontent.com
 trishtech.com
+trouter-cus-b.trouter.skype.com
 troyhunt.com
 tvaddons.co
 tvdb2.plex.tv
@@ -813,6 +839,12 @@ user-images.githubusercontent.com
 users.storage.live.com
 utorrent.com
 v.firebog.net
+v4.ipv6-test.com
+v4.zone6.ipv6-test.com
+v4v6.ipv6-test.com
+v6.ipv6-test.com
+v6.zone4.ipv6-test.com
+v6.zone6.ipv6-test.com
 vas.samsungapps.com
 vebdsabbr
 vgpbqrmchokpsv
@@ -855,6 +887,7 @@ winhelp2002.mvps.org
 woodgears.ca
 wordpress.com
 wp.com
+ws.dslr.net
 wsimap0.weather.com
 wsimap4.weather.com
 wsimap5.weather.com
@@ -983,6 +1016,7 @@ www.techbriefs.com
 www.techradar.com
 www.techrepublic.com
 www.techsupportalert.com
+www.techtarget.com
 www.tecmint.com
 www.tenforums.com
 www.testdevlab.com
