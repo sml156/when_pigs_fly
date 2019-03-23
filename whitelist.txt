@@ -355,6 +355,7 @@ hulu.com
 i.guim.co.uk
 i.imgur.com
 i.stack.imgur.com
+ib.adnxs.com
 icanhazip.com
 ichef-1.bbci.co.uk
 ichef.bbci.co.uk
@@ -1250,6 +1251,7 @@ www.hulu.com
 www.i.guim.co.uk
 www.i.imgur.com
 www.i.stack.imgur.com
+www.ib.adnxs.com
 www.icanhazip.com
 www.ichef-1.bbci.co.uk
 www.ichef.bbci.co.uk
@@ -1783,6 +1785,7 @@ www.woodgears.ca
 www.wordpress.com
 www.wp.com
 www.wunderground.com
+www.www.bizographics.com
 www.x-wrt.org
 www.x.kinja-static.com
 www.xda-cdn.com
