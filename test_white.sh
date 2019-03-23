@@ -1,24 +1,40 @@
 # ##############################################
-# Custom blacklist
+# Notes:
+# Get script
+# wget -qO - https://raw.githubusercontent.com/sml156/when_pigs_fly/master/test_white.sh > test_white.sh
+# Make exicutable
+# sudo chmod a+x test_white.sh
+# Run script
+# sudo ./test_white.sh
 # ##############################################
 
-#pihole -b cdn.adfront.org tag.medialytics.com med.heyzap.com notify.bugsnag.com rt.applovin.com ns.zdbb.net omaze.com traffic.adxprts.com ads.exoclick.com adclickservice.com 2468.go2cloud.org d1lp05q4sghme9.cloudfront.net 4-edge-chat.facebook.com pleasedontslaymy.download cdn11.pleasedontslaymy.download engine.phn.doublepimp.com media.trafficjunky.net fbcdn-profile-a.akamaihd.net cf2.vuze.com tlootas.org badtopwitch.work eventtracking.omarsys.com almoraffiliates-api.omarsys.com www.sunnyplayer.com cdn.engine.spotscenered.info sunnyplayer-frontapi.cherrytech.com mh.tlootas.org spotscenered.info 
-curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt > /etc/pihole/blacklist.txt
-
 # ##############################################
-# Whitelist of domains (twitter, spotify, ...)
+# My blacklist on github
 # ##############################################
 
-# Clean out - to be sure
-# echo "" | sudo tee /etc/pihole/whitelist.txt > /dev/null
-# pihole -g
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt > /etc/pihole/$
 
-#pihole -w raw.githubusercontent.com mirror1.malwaredomains.com sysctl.org zeustracker.abuse.ch s3.amazonaws.com hosts-file.net spclient.wg.spotify.com udm.scorecardresearch.com analytics.twitter.com adaway.org v.firebog.net mirror.cedia.org.ec www.malwaredomainlist.com bitbucket.org openphish.com ransomwaretracker.abuse.ch github.com thepiratebay.org apple.com appleid.apple.com pornhub.com opensubtitles.org angryip.org imgur.com prod.imgur.map.fastlylb.net m.imgur.com 
-curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt > /etc/pihole/whitelist.txt
 # ##############################################
-# Pi-Hole's block lists
+# My Whitelist on github
 # ##############################################
 
-sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | sudo tee /etc/pihole/adlists.list
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt > /etc/pihole/$
 
-sudo wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross 2> /dev/null | sudo tee -a /etc/pihole/adlists.list
+# ##############################################
+# Pi-Hole's block lists from https://wally3k.github.io
+# ##############################################
+
+wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/adlists.list
+wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross | tee -a /etc/pihole/adlists.list
+
+# ##############################################
+# Template to add more domains
+# echo "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" | sudo tee -a /etc/pihole/adlists.list > /dev/null
+# echo "https://mirror1.malwaredomains.com/files/justdomains" | sudo tee -a /etc/pihole/adlists.list > /dev/null
+# ##############################################
+
+# ##############################################
+# Update pihole
+# ##############################################
+
+pihole -g
