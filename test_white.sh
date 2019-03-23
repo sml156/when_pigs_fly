@@ -21,6 +21,12 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist
 curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt > /etc/pihole/$
 
 # ##############################################
+# My regex on github
+# ##############################################
+
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/regex.list > /etc/pihole/regex.list/$
+
+# ##############################################
 # Pi-Hole's block lists from https://wally3k.github.io
 # ##############################################
 
