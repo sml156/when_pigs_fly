@@ -53,8 +53,6 @@ api.wigle.net
 apis.google.com
 app-api.ted.com
 app-cdn.spot.im
-app.plex.tv 
-apps.skype.com 
 appservices.nationalgeographic.com
 apt.sonarr.tv
 arbornetworks.com
@@ -123,7 +121,6 @@ bwbx.io
 c.bing.com
 c.disquscdn.com
 c.live.com
-c.s-microsoft.com 
 calendar.google.com
 campaigns.bumpgen.com
 canadianoutages.com
@@ -183,7 +180,6 @@ content.spiceworksstatic.com
 continuum.dds.microsoft.com
 core.windows.net
 cornell.edu
-creative.ak.fbcdn.net 
 cringely.com
 crl.microsoft.com
 cryptauthenrollment.googleapis.com
@@ -206,8 +202,6 @@ dfkrkqaqb1zsx.cloudfront.net
 diablohorn.files.wordpress.com
 didierstevens.files.wordpress.com
 digitalocean.com
-directvapplications.hb.omtrdc.net 
-directvnow.com 
 discourse-cdn-aws1.com
 discourse-cdn-sjc3.com
 discourse-cloud-file-uploads.s3-us-west-2.amazonaws.com
@@ -218,7 +212,6 @@ disq.us
 disqus.com
 disquscdn.com
 djtflbt20bdde.cloudfront.net
-dl.delivery.mp.microsoft.com 
 dl.dropbox.com
 dl.dropboxusercontent.com
 docker.com
@@ -271,7 +264,6 @@ farm3.static.flickr.com
 fast.com
 fastmail.com
 fave.api.cnn.io
-fbcdn-creative-a.akamaihd.net 
 feedburner.com
 feedly.com
 feedpress.me
@@ -283,7 +275,6 @@ firebaseremoteconfig.googleapis.com
 firebog.net
 fireeye.com
 firefox.settings.services.mozilla.com
-fnrjttqmiz
 followshows.com
 fonts.googleapis.com
 fonts.smdg.ca
@@ -308,10 +299,8 @@ gatesnotes.com
 gateway.messenger.live.com
 gateway.reddit.com
 gekko.spiceworks.com
-geo-prod.do.dsp.mp.microsoft.com 
 geo.yahoo.com
 geocities.jp
-ggzscjytvidq
 ghacks.net
 gist.githubusercontent.com
 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -343,7 +332,6 @@ guardian.map.fastly.net
 guce.engadget.com
 guim.co.uk
 gurud.ee
-gxidaekkzuk
 hackaday.com
 hackadaycom.files.wordpress.com
 hackadaycom.wordpress.com
@@ -407,7 +395,6 @@ ipinfo.info
 ipinfo.io
 ipspace.net
 ipv6.he.net
-irhrvnacj
 irishtimes.com
 isc.org
 isc.sans.edu
@@ -459,10 +446,8 @@ login.wikimedia.org
 login.yahoo.com
 lubuntu.me
 lubuntu.net
-m.hotmail.com 
 m.stripe.com
 m.stripe.network
-m.weeklyad.target.com 
 macrumors.com
 mail.google.com
 mail.yahoo.com
@@ -566,7 +551,6 @@ out.sh
 outlook.live.com
 outlook.office.com
 outlook.office365.com
-outlook.office365.com 
 ow.ly
 p.agnihotry.com
 packetpushers.net
@@ -579,7 +563,6 @@ pentestit.com
 petri.com
 phandroid.com
 phandroid.s3.amazonaws.com
-phckzqhzzidseif
 phishing.army
 pi-hole.github.io
 pi-hole.net
@@ -601,9 +584,7 @@ pornhub.com
 portableapps.com
 potsandpansbyccg.com
 powershellgallery.com
-pricelist.skype.com 
 producer-api.appspot.com
-products.office.com 
 profile.wunderground.com
 proxy.novafusion.ea.com
 proxy.plex.bz
@@ -653,7 +634,6 @@ rover.ebay.com
 s.aolcdn.com
 s.blogsmithmedia.com
 s.delvenetworks.com
-s.gateway.messenger.live.com 
 s.go-mpulse.net
 s.reddit.com
 s.swiftypecdn.com
@@ -663,7 +643,6 @@ s.wp.com
 s.yimg.com
 s.youtube.com
 s.ytimg.com
-s.zkcdn.net 
 s0.wp.com
 s1.symcb.com
 s1.wp.com
@@ -681,7 +660,6 @@ s5.files.wordpress.com
 s5.symcb.com
 sa-blacklist.stearns.org
 sa.aol.com
-sa.symcb.com 
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 samizdat-graphql.nytimes.com
@@ -850,7 +828,6 @@ ubuntuforums.org
 ubuntuupdates.disqus.com
 ubuntuupdates.org
 udc.yahoo.com
-ui.skype.com 
 unix.com
 unixmen.com
 update.bittorrent.com
@@ -868,8 +845,6 @@ users.storage.live.com
 utorrent.com
 v.firebog.net
 vas.samsungapps.com
-vebdsabbr
-vgpbqrmchokpsv
 vice.com
 video-stats.l.google.com
 video.limelight.com
@@ -884,8 +859,6 @@ vmware.com
 voledevice-pa.googleapis.com
 vortex.accuweather.com
 vox-cdn.com
-vuhwsasceshfqun
-vwvtypsj
 w-x.co
 w.org
 w5ww9q.bn.files.1drv.com
@@ -895,7 +868,6 @@ weather.com
 web.archive.org
 webanalytics.library.cornell.edu
 webcache.googleusercontent.com
-weeklyad.target.com 
 weeklyad.target.com.edgesuite.net
 whatsmyip.org
 wi-fiplanet.com
@@ -974,8 +946,6 @@ www.api.wigle.net
 www.apis.google.com
 www.app-api.ted.com
 www.app-cdn.spot.im
-www.app.plex.tv 
-www.apps.skype.com 
 www.appservices.nationalgeographic.com
 www.apt.sonarr.tv
 www.arbornetworks.com
@@ -1044,7 +1014,6 @@ www.bwbx.io
 www.c.bing.com
 www.c.disquscdn.com
 www.c.live.com
-www.c.s-microsoft.com 
 www.calendar.google.com
 www.campaigns.bumpgen.com
 www.canadianoutages.com
@@ -1104,7 +1073,6 @@ www.content.spiceworksstatic.com
 www.continuum.dds.microsoft.com
 www.core.windows.net
 www.cornell.edu
-www.creative.ak.fbcdn.net 
 www.cringely.com
 www.crl.microsoft.com
 www.cryptauthenrollment.googleapis.com
@@ -1127,8 +1095,6 @@ www.dfkrkqaqb1zsx.cloudfront.net
 www.diablohorn.files.wordpress.com
 www.didierstevens.files.wordpress.com
 www.digitalocean.com
-www.directvapplications.hb.omtrdc.net 
-www.directvnow.com 
 www.discourse-cdn-aws1.com
 www.discourse-cdn-sjc3.com
 www.discourse-cloud-file-uploads.s3-us-west-2.amazonaws.com
@@ -1139,7 +1105,6 @@ www.disq.us
 www.disqus.com
 www.disquscdn.com
 www.djtflbt20bdde.cloudfront.net
-www.dl.delivery.mp.microsoft.com 
 www.dl.dropbox.com
 www.dl.dropboxusercontent.com
 www.docker.com
@@ -1192,7 +1157,6 @@ www.farm3.static.flickr.com
 www.fast.com
 www.fastmail.com
 www.fave.api.cnn.io
-www.fbcdn-creative-a.akamaihd.net 
 www.feedburner.com
 www.feedly.com
 www.feedpress.me
@@ -1229,7 +1193,6 @@ www.gatesnotes.com
 www.gateway.messenger.live.com
 www.gateway.reddit.com
 www.gekko.spiceworks.com
-www.geo-prod.do.dsp.mp.microsoft.com 
 www.geo.yahoo.com
 www.geocities.jp
 www.ggzscjytvidq
@@ -1379,10 +1342,8 @@ www.login.wikimedia.org
 www.login.yahoo.com
 www.lubuntu.me
 www.lubuntu.net
-www.m.hotmail.com 
 www.m.stripe.com
 www.m.stripe.network
-www.m.weeklyad.target.com 
 www.macrumors.com
 www.mail.google.com
 www.mail.yahoo.com
@@ -1485,7 +1446,6 @@ www.out.sh
 www.outlook.live.com
 www.outlook.office.com
 www.outlook.office365.com
-www.outlook.office365.com 
 www.ow.ly
 www.p.agnihotry.com
 www.packetpushers.net
@@ -1520,9 +1480,7 @@ www.pornhub.com
 www.portableapps.com
 www.potsandpansbyccg.com
 www.powershellgallery.com
-www.pricelist.skype.com 
 www.producer-api.appspot.com
-www.products.office.com 
 www.profile.wunderground.com
 www.proxy.novafusion.ea.com
 www.proxy.plex.bz
@@ -1572,7 +1530,6 @@ www.rover.ebay.com
 www.s.aolcdn.com
 www.s.blogsmithmedia.com
 www.s.delvenetworks.com
-www.s.gateway.messenger.live.com 
 www.s.go-mpulse.net
 www.s.reddit.com
 www.s.swiftypecdn.com
@@ -1582,7 +1539,6 @@ www.s.wp.com
 www.s.yimg.com
 www.s.youtube.com
 www.s.ytimg.com
-www.s.zkcdn.net 
 www.s0.wp.com
 www.s1.symcb.com
 www.s1.wp.com
@@ -1600,7 +1556,6 @@ www.s5.files.wordpress.com
 www.s5.symcb.com
 www.sa-blacklist.stearns.org
 www.sa.aol.com
-www.sa.symcb.com 
 www.safebrowsing-cache.google.com
 www.safebrowsing.googleapis.com
 www.samizdat-graphql.nytimes.com
@@ -1769,7 +1724,6 @@ www.ubuntuforums.org
 www.ubuntuupdates.disqus.com
 www.ubuntuupdates.org
 www.udc.yahoo.com
-www.ui.skype.com 
 www.unix.com
 www.unixmen.com
 www.update.bittorrent.com
@@ -1814,7 +1768,6 @@ www.weather.com
 www.web.archive.org
 www.webanalytics.library.cornell.edu
 www.webcache.googleusercontent.com
-www.weeklyad.target.com 
 www.weeklyad.target.com.edgesuite.net
 www.whatsmyip.org
 www.wi-fiplanet.com
