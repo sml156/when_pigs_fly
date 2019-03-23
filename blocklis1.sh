@@ -1,4 +1,7 @@
 # Copy Pasted from https://github.com/Kevin-De-Koninck/pi-hole-helpers
+# restore the default pihole list:
+# cp -f /etc/.pihole/adlists.default /etc/pihole/adlists.list && pihole -g
+
 # ##############################################
 # Custom blacklist
 # ##############################################
