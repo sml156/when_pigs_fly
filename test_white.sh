@@ -18,7 +18,7 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist
 # Pi-Hole's block lists
 # ##############################################
 
-wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/personal-adlists.list
+# wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/personal-adlists.list
 
 # cat /etc/pihole/personal-adlists.list <(wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross 2> /dev/null) | tee /etc/pihole/adlists.list
 
