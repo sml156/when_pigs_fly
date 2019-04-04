@@ -1,5 +1,6 @@
 (^|\.)ve$
-.(accountant|bid|biz|cf|christmas|club|cn|country|cricket|date|faith|ga|gdn|gq|host|info|kim|life|loan|ltd|men|ml|mom|ninja|party|pro|pw|racing|realtor|ro|ru|science|site|space|stream|tk|top|ua|ug|ve|win|work|world|xyz|zip)$
+.(loan|ltd|men|ml|mom|ninja|party|pro|pw|racing|realtor|ro|ru|science|site|space|stream|tk|top|ua|ug|ve|win|work|world|xyz|zip)$
+.(accountant|bid|biz|cf|christmas|club|cn|country|cricket|date|faith|ga|gdn|gq|host|info|kim|life)$
 ^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
 ^(.+\.)?amp\.cloudflare\.com$
 ^(.+\.)?cdn\.ampproject\.org$
@@ -15,7 +16,6 @@
 ^clicks?[-.]
 ^count(ers?)?[0-9]*[-.]
 ^pixels?[-.]
-^r[0-9]*([-]{1,3}|.)sn-[a-z0-9]{4,}-[a-z0-9]{4,}\.googlevideo
 ^stat(s|istics)?[0-9]*[-.]
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
