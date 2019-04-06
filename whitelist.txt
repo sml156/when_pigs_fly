@@ -6,7 +6,7 @@ accounts.spiceworks.com
 accuweather.brightspotcdn.com
 accuweather.com
 acm.org
-activity.windows.com
+activity.windows.coms
 ad.apps.fm
 adaway.org
 adb.juvander.net
@@ -25,6 +25,7 @@ ak-dn.gw.samsungapps.com
 aka.ms
 akamaihd.net
 akiba.geocities.jp
+amazon.ca
 amazon.com
 amz.mshcdn.com
 amzn.to
@@ -65,6 +66,7 @@ askubuntu.com
 assets.atlasobscura.com
 assets.bwbx.io
 assets.rbl.ms
+autohotkey.com
 avast.com
 aviationweather.gov
 ax.phobos.apple.com.edgesuite.net
@@ -77,6 +79,7 @@ b.tiles.mapbox.com
 backblaze.com
 badges.gitter.im
 banners.spiceworks.com
+bbc.co.uk
 bbc.com
 bbci.co.uk
 bbs.boingboing.net
@@ -88,6 +91,7 @@ bing.com
 bit.ly
 bitbucket.org
 bizographics.com
+bleepingcomputer.com
 bleepstatic.com
 blob.core.windows.net
 blocklist.kowabit.de
@@ -166,6 +170,7 @@ client-s.gateway.messenger.live.com
 cloud.addictivetips.com
 cloudflare.com
 cn.cbsimg.net
+cnet.com
 cnevids.com
 cnn.com
 cnnios-f.akamaihd.net
@@ -250,6 +255,7 @@ emoji.redditmedia.com
 encrypted-tbn0.gstatic.com
 engadget.com
 eurogamer.net
+express.co.uk
 extremelearning.com.au
 eztv.ag
 f-droid.org
@@ -280,6 +286,7 @@ fonts.googleapis.com
 fonts.smdg.ca
 forum-lw-1.xda-cdn.com
 forum.lede-project.org
+forum.openwrt.org
 forum.xda-cdn.com
 forum.xda-developers.com
 forums.macrumors.com
@@ -337,6 +344,7 @@ hackadaycom.files.wordpress.com
 hackadaycom.wordpress.com
 hackedgadgets.com
 hackforums.net
+hackingarticles.in
 hackread.com
 hangouts.google.com
 help.ubuntu.com
@@ -401,6 +409,7 @@ isc.org
 isc.sans.edu
 ist.ac.at
 itknowledgeexchange.techtarget.com
+itnews.com.au
 itprotoday.com
 iweb.dl.sourceforge.net
 jabcreations.com
@@ -596,6 +605,7 @@ public-api.wordpress.com
 publicsuffix.org
 pubsub.plex.bz
 pubsub.plex.tv
+purevpn.com
 pwapi.washingtonpost.com
 px.spiceworks.com
 q.stripe.com
@@ -621,6 +631,7 @@ redirector.googlevideo.com
 redirector.gvt1.com
 redtube.com
 referrer.disqus.com
+regex101.com
 regmedia.co.uk
 reminders-pa.googleapis.com
 resources.blogblog.com
@@ -664,6 +675,7 @@ sa.aol.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 samizdat-graphql.nytimes.com
+samsung.com
 sans.edu
 satterly.neocities.org
 sb-ssl.google.com
@@ -686,6 +698,7 @@ sendbird.reddit.com
 serverfault.com
 services.disqus.com
 services.sonarr.tv
+sevenforums.com
 sfgate.com
 shop.lego.com
 sio-1.livestream.com
@@ -757,6 +770,7 @@ surveymonkey.com
 svc-br3.spd.samsungdm.com
 svc-cf.spd.samsungdm.com
 swiftypecdn.com
+symantec.com
 sysctl.org
 sysnative.com
 t.co
@@ -792,6 +806,7 @@ thepiratebay.se
 theregister.co.uk
 thetvdb.com
 theverge.com
+theweathernetwork.com
 thinkpenguin.com
 thomas-krenn.com
 thumbs.redditmedia.com
@@ -878,8 +893,11 @@ wiki.openwrt.org
 wikimedia.org
 wikipedia.org
 windows.net
+windowscentral.com
 windowschimp-e4cahqzcal86se23rw2j.netdna-ssl.com
 winhelp2002.mvps.org
+wired.co.uk
+wireshark.org
 woodgears.ca
 wordpress.com
 wp.com
@@ -919,6 +937,7 @@ www.ak-dn.gw.samsungapps.com
 www.aka.ms
 www.akamaihd.net
 www.akiba.geocities.jp
+www.amazon.ca
 www.amazon.com
 www.amz.mshcdn.com
 www.amzn.to
@@ -959,6 +978,7 @@ www.askubuntu.com
 www.assets.atlasobscura.com
 www.assets.bwbx.io
 www.assets.rbl.ms
+www.autohotkey.com
 www.avast.com
 www.aviationweather.gov
 www.ax.phobos.apple.com.edgesuite.net
@@ -971,6 +991,7 @@ www.b.tiles.mapbox.com
 www.backblaze.com
 www.badges.gitter.im
 www.banners.spiceworks.com
+www.bbc.co.uk
 www.bbc.com
 www.bbci.co.uk
 www.bbs.boingboing.net
@@ -982,6 +1003,7 @@ www.bing.com
 www.bit.ly
 www.bitbucket.org
 www.bizographics.com
+www.bleepingcomputer.com
 www.bleepstatic.com
 www.blob.core.windows.net
 www.blocklist.kowabit.de
@@ -1060,6 +1082,7 @@ www.client-s.gateway.messenger.live.com
 www.cloud.addictivetips.com
 www.cloudflare.com
 www.cn.cbsimg.net
+www.cnet.com
 www.cnevids.com
 www.cnn.com
 www.cnnios-f.akamaihd.net
@@ -1144,6 +1167,7 @@ www.emoji.redditmedia.com
 www.encrypted-tbn0.gstatic.com
 www.engadget.com
 www.eurogamer.net
+www.express.co.uk
 www.extremelearning.com.au
 www.eztv.ag
 www.f-droid.org
@@ -1175,6 +1199,7 @@ www.fonts.googleapis.com
 www.fonts.smdg.ca
 www.forum-lw-1.xda-cdn.com
 www.forum.lede-project.org
+www.forum.openwrt.org
 www.forum.xda-cdn.com
 www.forum.xda-developers.com
 www.forums.macrumors.com
@@ -1233,6 +1258,7 @@ www.hackadaycom.files.wordpress.com
 www.hackadaycom.wordpress.com
 www.hackedgadgets.com
 www.hackforums.net
+www.hackingarticles.in
 www.hackread.com
 www.hangouts.google.com
 www.help.ubuntu.com
@@ -1298,6 +1324,7 @@ www.isc.org
 www.isc.sans.edu
 www.ist.ac.at
 www.itknowledgeexchange.techtarget.com
+www.itnews.com.au
 www.itprotoday.com
 www.iweb.dl.sourceforge.net
 www.jabcreations.com
@@ -1493,6 +1520,7 @@ www.public-api.wordpress.com
 www.publicsuffix.org
 www.pubsub.plex.bz
 www.pubsub.plex.tv
+www.purevpn.com
 www.pwapi.washingtonpost.com
 www.px.spiceworks.com
 www.q.stripe.com
@@ -1518,6 +1546,7 @@ www.redirector.googlevideo.com
 www.redirector.gvt1.com
 www.redtube.com
 www.referrer.disqus.com
+www.regex101.com
 www.regmedia.co.uk
 www.reminders-pa.googleapis.com
 www.resources.blogblog.com
@@ -1561,6 +1590,7 @@ www.sa.aol.com
 www.safebrowsing-cache.google.com
 www.safebrowsing.googleapis.com
 www.samizdat-graphql.nytimes.com
+www.samsung.com
 www.sans.edu
 www.satterly.neocities.org
 www.sb-ssl.google.com
@@ -1583,6 +1613,7 @@ www.sendbird.reddit.com
 www.serverfault.com
 www.services.disqus.com
 www.services.sonarr.tv
+www.sevenforums.com
 www.sfgate.com
 www.shop.lego.com
 www.sio-1.livestream.com
@@ -1654,6 +1685,7 @@ www.surveymonkey.com
 www.svc-br3.spd.samsungdm.com
 www.svc-cf.spd.samsungdm.com
 www.swiftypecdn.com
+www.symantec.com
 www.sysctl.org
 www.sysnative.com
 www.t.co
@@ -1689,6 +1721,7 @@ www.thepiratebay.se
 www.theregister.co.uk
 www.thetvdb.com
 www.theverge.com
+www.theweathernetwork.com
 www.thinkpenguin.com
 www.thomas-krenn.com
 www.thumbs.redditmedia.com
@@ -1779,8 +1812,11 @@ www.wiki.openwrt.org
 www.wikimedia.org
 www.wikipedia.org
 www.windows.net
+www.windowscentral.com
 www.windowschimp-e4cahqzcal86se23rw2j.netdna-ssl.com
 www.winhelp2002.mvps.org
+www.wired.co.uk
+www.wireshark.org
 www.woodgears.ca
 www.wordpress.com
 www.wp.com
@@ -1798,6 +1834,7 @@ www.ycombinator.com
 www.yimg.com
 www.yjwe9q.bn.files.1drv.com
 www.youbora.com
+www.youporn.com
 www.youtu.be
 www.youtu.be0.client-channel.google.com
 www.youtube.com
@@ -1827,6 +1864,7 @@ ycombinator.com
 yimg.com
 yjwe9q.bn.files.1drv.com
 youbora.com
+youporn.com
 youtu.be
 youtu.be0.client-channel.google.com
 youtube.com
