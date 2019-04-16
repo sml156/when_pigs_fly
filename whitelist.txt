@@ -54,6 +54,7 @@ api.wigle.net
 apis.google.com
 app-api.ted.com
 app-cdn.spot.im
+app.adjust.com
 appservices.nationalgeographic.com
 apt.sonarr.tv
 arbornetworks.com
@@ -201,6 +202,7 @@ darknet.org.uk
 dashboard.plex.tv
 debian.org
 deusm.com
+dev.appboy.com
 dev.virtualearth.net
 dezeen.com
 dfkrkqaqb1zsx.cloudfront.net
@@ -256,6 +258,7 @@ encrypted-tbn0.gstatic.com
 engadget.com
 eurogamer.net
 express.co.uk
+external-preview.redd.it
 extremelearning.com.au
 eztv.ag
 f-droid.org
@@ -371,6 +374,7 @@ icons.wunderground.com
 icons.wxug.com
 id.google.ca
 ideone.com
+idg.map.fastly.net
 idgesg.net
 ilovefreesoftware.com
 images-na.ssl-images-amazon.com
@@ -470,6 +474,7 @@ malwaredomainlist.com
 malwareurls.joxeankoret.com
 mapbox.com
 maps.googleapis.com
+marfeel.map.fastly.net
 maxcdn.bootstrapcdn.com
 mcafee.com
 mdh-pa.googleapis.com
@@ -512,6 +517,7 @@ netflix.com
 news.google.com
 news.mit.edu
 news.nationalgeographic.com
+news.softpedia.com
 news.stanford.edu
 nextmedia.com.au
 nickwignall.com
@@ -692,6 +698,7 @@ secure.dshield.org
 secure.gravatar.com
 secure.surveymonkey.com
 securingtomorrow.mcafee.com
+securityaffairs.co
 securityweek.com
 semiaccurate.com
 sendbird.reddit.com
@@ -804,6 +811,7 @@ thenextweb.com
 thepiratebay.org
 thepiratebay.se
 theregister.co.uk
+thesun.co.uk
 thetvdb.com
 theverge.com
 theweathernetwork.com
@@ -966,6 +974,7 @@ www.api.wigle.net
 www.apis.google.com
 www.app-api.ted.com
 www.app-cdn.spot.im
+www.app.adjust.com
 www.appservices.nationalgeographic.com
 www.apt.sonarr.tv
 www.arbornetworks.com
@@ -1326,6 +1335,7 @@ www.ist.ac.at
 www.itknowledgeexchange.techtarget.com
 www.itnews.com.au
 www.itprotoday.com
+www.itprotoday.com.cdn.cloudflare.net
 www.iweb.dl.sourceforge.net
 www.jabcreations.com
 www.jalopnik.com
@@ -1607,6 +1617,7 @@ www.secure.dshield.org
 www.secure.gravatar.com
 www.secure.surveymonkey.com
 www.securingtomorrow.mcafee.com
+www.securityaffairs.co
 www.securityweek.com
 www.semiaccurate.com
 www.sendbird.reddit.com
@@ -1719,6 +1730,7 @@ www.thenextweb.com
 www.thepiratebay.org
 www.thepiratebay.se
 www.theregister.co.uk
+www.thesun.co.uk
 www.thetvdb.com
 www.theverge.com
 www.theweathernetwork.com
@@ -1876,6 +1888,7 @@ zap2it.comcentral
 zdassets.com
 zdnet-1.disqus.com
 zdnet.com
+zdnet3.cbsistatic.com
 zerocater.com
 zerodot1.gitlab.io
 zeustracker.abuse.ch
