@@ -1,3 +1,4 @@
+1mb.site
 2.bp.blogspot.com
 2.gravatar.com
 4.bp.blogspot.com
@@ -8,6 +9,7 @@ accuweather.com
 acm.org
 activity.windows.coms
 ad.apps.fm
+adage.com
 adaway.org
 adb.juvander.net
 adblock.dk
@@ -1140,6 +1142,7 @@ www.disquscdn.com
 www.djtflbt20bdde.cloudfront.net
 www.dl.dropbox.com
 www.dl.dropboxusercontent.com
+www.dnsbl.info
 www.docker.com
 www.docs.live.net
 www.docs.microsoft.com
