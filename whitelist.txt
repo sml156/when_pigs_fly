@@ -443,6 +443,7 @@ latimes.com
 latimesblogs.latimes.com
 leanplum.com
 lede-project.org
+ledger-crypto.atlas.bt.co
 lego.com
 lh3.googleusercontent.com
 librarianshipwreck.files.wordpress.com
@@ -1120,6 +1121,7 @@ www.cyclingtips.com
 www.cyclingtips.disqus.com
 www.d-cal.com
 www.d.ghostery.com
+www.dailystar.co.uk
 www.darknet.org.uk
 www.dashboard.plex.tv
 www.debian.org
