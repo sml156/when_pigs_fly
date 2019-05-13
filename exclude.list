@@ -14,6 +14,7 @@ accounts.spiceworks.com
 accuweather.brightspotcdn.com
 activity.windows.com
 adaway.org
+addons.cdn.mozilla.net
 affiliate.zap2it.com
 aip.context.corus.ca
 ajax.aspnetcdn.com
@@ -35,6 +36,7 @@ api.onedrive.com
 api.samsungcloud.com
 api.snapcraft.io
 api.spd.samsungdm.com
+api.stack-sonar.com
 api.thetvdb.com
 api.us.hismarttv.com
 api.viafoura.com
@@ -84,6 +86,7 @@ camo.githubusercontent.com
 ccleaner.tools.avcdn.net
 cdn-images-1.medium.com
 cdn.afterdawn.fi
+cdn.ap.bittorrent.com
 cdn.arstechnica.net
 cdn.cnn.com
 cdn.content.prod.cms.msn.com
@@ -120,6 +123,7 @@ community.spiceworksstatic.com
 completion.amazon.com
 config.edge.skype.com
 config.mobile.yahoo.com
+config.teams.microsoft.com
 connectapi.garmin.com
 connectivitycheck.gstatic.com
 content-signature.cdn.mozilla.net
@@ -169,6 +173,7 @@ downloads.openwrt.org
 downloads.sourceforge.net
 dwgyu36up6iuz.cloudfront.net
 dwkujuq9vpuly.cloudfront.net
+e11929.e12.akamaiedge.net
 e3891.dscf.akamaiedge.net
 e5952.b.akamaiedge.net
 edge.api.brightcove.com
@@ -185,6 +190,7 @@ eztv.io
 f-droid.org
 f1-na.readspeaker.com
 fallback-v4.ipv6-test.com
+farkimg.sfo2.cdn.digitaloceanspaces.com
 farm3.static.flickr.com
 farm3.staticflickr.com
 farm8.staticflickr.com
@@ -200,6 +206,7 @@ firebaseremoteconfig.googleapis.com
 firebog.net
 firefox.settings.services.mozilla.com
 firefoxusercontent.com
+fls-na.amazon.com
 fnrjttqmiz
 fonts.googleapis.com
 fonts.gstatic.com
@@ -247,6 +254,7 @@ hosts-file.net
 hostsfile.org
 howtogeek.disqus.com
 hq.talkingpointsmemo.com
+i-38.b-45146.ut.bench.utorrent.com
 i-64.b-45146.ut.bench.utorrent.com
 i.cbc.ca
 i.dslr.net
@@ -255,6 +263,7 @@ i.guim.co.uk
 i.imgur.com
 i.kinja-img.com
 i.nextmedia.com.au
+i.redd.it
 i.stack.imgur.com
 i.stack.imgur.com.cdn.cloudflare.net
 i.ytimg.com
@@ -298,10 +307,12 @@ kv801-prod.do.dsp.mp.microsoft.com
 kx7kog.bn.files.1drv.com
 lb.airdroid.com
 leandromoreira.com.br
+ledger-crypto.atlas.bt.co
 lh3.googleusercontent.com
 lh6.googleusercontent.com
 license.theoplayer.com
 live.github.com
+livetileedge.dsx.mp.microsoft.com
 localtvwhnt.files.wordpress.com
 login.live.com
 login.symantec.com
@@ -318,6 +329,7 @@ media.boingboing.net
 media.globalnews.ca
 media.npr.org
 media.threatpost.com
+media.wired.com
 mediawiki.org
 medium.com
 microsoftapps.azurewebsites.net
@@ -325,6 +337,7 @@ milk.com
 mini5.opera-mini.net
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
+mixi.media
 mobile.pipe.aria.microsoft.com
 mobilemaps-pa.googleapis.com
 mtalk4.google.com
@@ -374,6 +387,7 @@ ow2.res.office365.com
 payments.google.com
 pbs.twimg.com
 pc.lan
+pelmsearch.pelmorex.com
 pgl.yoyo.org
 phandroid.com
 phckzqhzzidseif
@@ -459,6 +473,7 @@ sprott.physics.wisc.edu
 srv.dc-1.net
 srv3.airdroid.com
 ssl.gstatic.com
+stat.media
 stat3.airdroid.com
 static-media-prod-cdn.sumo.mozilla.net
 static.depositfiles.com
@@ -467,6 +482,7 @@ static.makeuseof.com
 static.rogersdigitalmedia.com
 static.xx.fbcdn.net
 static01.nyt.com
+static1.mixi.media
 static2.sharepointonline.com
 statics-uhf-wus.akamaized.net
 status.thawte.com
@@ -482,8 +498,10 @@ support.symantec.com
 sync-529-us-west-2.sync.services.mozilla.com
 sysctl.org
 t0.ssl.ak.dynamic.tiles.virtualearth.net
+t3j2g9x7.stackpathcdn.com
 tags.tiqcdn.com
 talkingpointsmemo.com
+target.mixi.media
 tatic.addtoany.com
 techcrunch.com
 techdows.com
@@ -548,6 +566,7 @@ www.bell.ca
 www.bing.com
 www.bleepingcomputer.com
 www.bleepstatic.com
+www.bt.co
 www.buymeacoffee.com
 www.cheatsheet.com
 www.cnn.com
@@ -570,12 +589,14 @@ www.itprotoday.com
 www.itprotoday.com.cdn.cloudflare.net
 www.joewein.net
 www.knopper.net
+www.latimes.com
 www.listchallenges.com
 www.macrumors.com
 www.maketecheasier.com
 www.malwaredomainlist.com
 www.mediawiki.org
 www.microsoft.com
+www.msftconnecttest.com
 www.niemanlab.org
 www.nytimes.com
 www.ospserver.net
