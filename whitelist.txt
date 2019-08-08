@@ -703,6 +703,7 @@ secure.surveymonkey.com
 securingtomorrow.mcafee.com
 securityaffairs.co
 securityweek.com
+self.events.data.microsoft.com
 semiaccurate.com
 sendbird.reddit.com
 serverfault.com
