@@ -33,7 +33,9 @@ api.asm.skype.com
 api.fast.com
 api.github.com
 api.nextgen.guardianapps.co.uk
+api.nobias.me
 api.onedrive.com
+api.push.verizonmedia.com
 api.samsungcloud.com
 api.snapcraft.io
 api.spd.samsungdm.com
@@ -48,6 +50,8 @@ app.adjust.com
 arc.msn.com
 archive.ubuntu.com
 archsofty.files.wordpress.com
+array605.prod.do.dsp.mp.microsoft.com
+array610.prod.do.dsp.mp.microsoft.com
 array803-prod.do.dsp.mp.microsoft.com
 arstechnica.com
 assets.rbl.ms
@@ -110,6 +114,7 @@ cds.j3z9t3p6.hwcdn.net
 cent.spots.im
 cfhcable.dl.sourceforge.net
 changelogs.ubuntu.com
+checkappexec.microsoft.com
 chromefeedcontentsuggestions-pa.googleapis.com
 cigsvc.nytimes.com
 clancy.spiceworks.com
@@ -210,6 +215,7 @@ fave.api.cnn.io
 fceos.x.incapdns.net
 fe2.update.microsoft.com
 fe3.delivery.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com
 fereis.net
 filterlists.com
 filters.adtidy.org
@@ -286,6 +292,7 @@ i0.wp.com
 i1.wp.com
 i2.shared.global.fastly.net
 i2.wp.com
+i5.lan
 ichef.bbci.co.uk
 id.google.ca
 id4.airdroid.com
@@ -327,6 +334,7 @@ kv801-prod.do.dsp.mp.microsoft.com
 kx7kog.bn.files.1drv.com
 lb.airdroid.com
 leandromoreira.com.br
+lede.lan
 ledger-crypto.atlas.bt.co
 ledger.bt.co
 lh3.googleusercontent.com
@@ -348,6 +356,7 @@ maxcdn.bootstrapcdn.com
 mdh-pa.googleapis.com
 media.boingboing.net
 media.globalnews.ca
+media.lan
 media.npr.org
 media.threatpost.com
 media.wired.com
@@ -360,7 +369,9 @@ mirror.cedia.org.ec
 mirror1.malwaredomains.com
 mixi.media
 mobile.pipe.aria.microsoft.com
+mobilecrashreporting.googleapis.com
 mobilemaps-pa.googleapis.com
+mtalk.google.com
 mtalk4.google.com
 mw1.google.com
 mwparserfromhell.readthedocs.io
@@ -418,6 +429,8 @@ phckzqhzzidseif
 phishing.army
 photos-ugc.l.googleusercontent.com
 pi-hole.github.io
+pi11.lan
+pi13.lan
 piholediscourse.b-cdn.net
 pki-goog.l.google.com
 play.google.com
@@ -612,6 +625,7 @@ www.gadgetish.com
 www.ghacks.net
 www.google.ca
 www.google.com
+www.googleadservices.com
 www.googleapis.com
 www.gravatar.com
 www.gstatic.com
@@ -635,6 +649,7 @@ www.nytimes.com
 www.ospserver.net
 www.powershellgallery.com
 www.reddit.com
+www.redditstatic.com
 www.sapiens.org
 www.seclists.org
 www.securityweek.com
