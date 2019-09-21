@@ -50,10 +50,16 @@ app.adjust.com
 arc.msn.com
 archive.ubuntu.com
 archsofty.files.wordpress.com
+array601.prod.do.dsp.mp.microsoft.com
+array604.prod.do.dsp.mp.microsoft.com
 array605.prod.do.dsp.mp.microsoft.com
+array606.prod.do.dsp.mp.microsoft.com
+array607.prod.do.dsp.mp.microsoft.com
+array608.prod.do.dsp.mp.microsoft.com
 array610.prod.do.dsp.mp.microsoft.com
 array803-prod.do.dsp.mp.microsoft.com
 arstechnica.com
+askubuntu.com
 assets.rbl.ms
 au.download.windowsupdate.com
 aus5.mozilla.org
@@ -163,12 +169,14 @@ dfkrkqaqb1zsx.cloudfront.net
 di.phncdn.com
 di1.ypncdn.com
 directory.services.live.com
+disc601-prod.do.dsp.mp.microsoft.com
 disc801-prod.do.dsp.mp.microsoft.com
 discourse-cdn-aws1.com
 discourse-cdn-sjc3.com
 discourse-cdn.pi-hole.net
 discourse-cloud-file-uploads.s3-us-west-2.amazonaws.com
 discourse.pi-hole.net
+displaycatalog.mp.microsoft.com
 disqus.com
 dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
@@ -198,6 +206,7 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 evoke-windowsservices-tas.msedge.net
+exodus.desync.com
 external-preview.redd.it
 external.fyyz1-1.fna.fbcdn.net
 ezimg.ch
@@ -225,6 +234,7 @@ firefox.settings.services.mozilla.com
 firefoxusercontent.com
 fls-na.amazon.com
 fnrjttqmiz
+followshows.com
 fonts.googleapis.com
 fonts.gstatic.com
 footprints-pa.googleapis.com
@@ -234,6 +244,7 @@ forums.mydigitallife.net
 fota-cloud-dn.ospserver.net
 fp.msedge.net
 g.live.com
+galaxy-s8.lan
 gateway.reddit.com
 gekko-130480997.us-east-1.elb.amazonaws.com
 gekko.spiceworks.com
@@ -277,6 +288,7 @@ howtogeek.disqus.com
 hq.talkingpointsmemo.com
 i-38.b-45146.ut.bench.utorrent.com
 i-64.b-45146.ut.bench.utorrent.com
+i-64.b-45341.ut.bench.utorrent.com
 i.cbc.ca
 i.dslr.net
 i.embed.ly
@@ -371,6 +383,7 @@ mixi.media
 mobile.pipe.aria.microsoft.com
 mobilecrashreporting.googleapis.com
 mobilemaps-pa.googleapis.com
+motoredbikes.com
 mtalk.google.com
 mtalk4.google.com
 mw1.google.com
@@ -552,6 +565,7 @@ theaircurrent.com
 themes.googleusercontent.com
 threatpost.com
 tile-service.weather.microsoft.com
+tiles.r53-2.services.mozilla.com
 tiles.services.mozilla.com
 tlu.dl.delivery.mp.microsoft.com
 token.r53-2.services.mozilla.com
@@ -566,6 +580,7 @@ typelevel.org
 uc-file.airdroid.com
 udc.yahoo.com
 unitedstates.smartscreen-prod.microsoft.com
+unix.stackexchange.com
 update.googleapis.com
 upload.wikimedia.org
 uploads.disquscdn.com
