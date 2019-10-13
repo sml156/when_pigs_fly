@@ -22,6 +22,7 @@ addons.cdn.mozilla.net
 affiliate.zap2it.com
 afterdawngmail.feedproxy.ghs.google.com
 aip.context.corus.ca
+airdroid-img2.s3.amazonaws.com
 ajax.aspnetcdn.com
 ajax.googleapis.com
 ak-dn.gw.samsungapps.com
@@ -37,6 +38,7 @@ api.accuweather.com
 api.asm.skype.com
 api.fast.com
 api.github.com
+api.login.yahoo.com
 api.nextgen.guardianapps.co.uk
 api.nobias.me
 api.onedrive.com
@@ -49,6 +51,7 @@ api.thetvdb.com
 api.us.hismarttv.com
 api.viafoura.com
 api.weather.com
+apidata.googleusercontent.com
 apis.google.com
 app-measurement.com
 app.adjust.com
@@ -103,7 +106,9 @@ c.disquscdn.com.cdn.cloudflare.net
 c.media-amazon.com
 c0.wp.com
 ca-odc.samsungapps.com
+caldav.calendar.yahoo.com
 camo.githubusercontent.com
+carddav.address.yahoo.com
 carnal0wnage.attackresearch.com
 carnal0wnage.blogspot.com
 ccleaner.tools.avcdn.net
@@ -141,6 +146,7 @@ client-s.gateway.messenger.live.com
 client.wns.windows.com
 clients3.google.com
 cloud.addictivetips.com
+cloud.feedly.com
 cloudconfig.googleapis.com
 code.jquery.com
 codeload.github.com
@@ -172,6 +178,7 @@ cse.google.com
 ctldl.windowsupdate.com
 d.docs.live.net
 d15zn84cat5tp0.cloudfront.net
+d1w68ehwsjmeq0.cloudfront.net
 d2k03kvdk5cku0.cloudfront.net
 d2p9n28p7hn39l.cloudfront.net
 d2spmqy4pos7su.cloudfront.net
@@ -193,6 +200,7 @@ discourse-cdn.pi-hole.net
 discourse-cloud-file-uploads.s3-us-west-2.amazonaws.com
 discourse.pi-hole.net
 disqus.com
+distrowatch.com
 dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 dls1prd.di.atlas.samsung.com
@@ -210,7 +218,9 @@ dwgyu36up6iuz.cloudfront.net
 dwkujuq9vpuly.cloudfront.net
 e.crashlytics.com
 e11929.e12.akamaiedge.net
+e13678.dspb.akamaiedge.net
 e1524.e12.akamaiedge.net
+e16936.a.akamaiedge.net
 e3030.g.akamaiedge.net
 e3891.dscf.akamaiedge.net
 e4280.g.akamaiedge.net
@@ -221,6 +231,7 @@ e8798.b.akamaiedge.net
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 edge.spiceworksstatic.com
+eff.map.fastly.net
 emupdate.avcdn.net
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -228,6 +239,7 @@ encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 erratasec.blogspot.com
 evoke-windowsservices-tas.msedge.net
+ext-cust.squarespace.com
 external-preview.redd.it
 external.fyyz1-1.fna.fbcdn.net
 ezimg.ch
@@ -246,6 +258,7 @@ fceos.x.incapdns.net
 fe2.update.microsoft.com
 fe3.delivery.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
+feed.ctrl.blog
 feedproxy.google.com
 feeds.afterdawn.com
 feeds.arstechnica.com
@@ -280,6 +293,7 @@ fp.msedge.net
 framebyframewifi.net
 freedom-to-tinker.com
 g.live.com
+galaxy-s8.lan
 gateway.reddit.com
 gekko-130480997.us-east-1.elb.amazonaws.com
 gekko.spiceworks.com
@@ -314,6 +328,7 @@ googlehosted.l.googleusercontent.com
 googleonlinesecurity.blogspot.com
 grahamcluley.com
 graph.facebook.com
+group29.sites.hscoscdn20.net
 gstaticadssl.l.google.com
 guardian.map.fastly.net
 gxcuf89792.lithium.com
@@ -322,6 +337,7 @@ hackaday.com
 hackadaycom.files.wordpress.com
 hackadaycom.wordpress.com
 hackingarticles.in
+hackmageddon.com
 hbtasx.feedproxy.ghs.google.com
 heartbeat.fritz.ai
 helpdeskgeek.com
@@ -350,6 +366,7 @@ i1.wp.com
 i2.shared.global.fastly.net
 i2.wp.com
 i5.lan
+i9.ytimg.com
 ichef.bbci.co.uk
 icons.duckduckgo.com
 icz0vn7a.easyredirengine.com
@@ -368,6 +385,7 @@ img.deusm.com
 img.fark.net
 img.samsungapps.com
 img.youtube.com
+img6.airdroid.com
 inbox.google.com
 incoming.telemetry.mozilla.org
 inference.location.live.net
@@ -383,6 +401,7 @@ irhrvnacj
 isc.sans.edu
 isc.sans.org
 iscxml.sans.org
+itnews.com.au
 iweb.dl.sourceforge.net
 jaxgsa.bn.files.1drv.com
 jumpespjump.blogspot.com
@@ -416,6 +435,7 @@ lumendatabase.org
 m.media-amazon.com
 mail.google.com
 makespectrumgreatagain.com
+malwarebytes.wpengine.com
 maps.googleblog.com
 marfeel.map.fastly.net
 matrix.org
@@ -447,6 +467,7 @@ mw1.google.com
 mwparserfromhell.readthedocs.io
 my.stuff.co.nz
 mybbc.files.bbci.co.uk
+myopenrouter.com
 nakedsecurity.sophos.com
 nalytics.ff.avast.com
 narratively.com
@@ -535,6 +556,7 @@ producer-api.appspot.com
 profile.accounts.firefox.com
 proton.flurry.com
 psg-prod-eastus.cloudapp.net
+public-api.wordpress.com
 push.airdroid.com
 push.services.mozilla.com
 pwapi.washingtonpost.com
@@ -633,6 +655,7 @@ storage.googleapis.com
 stuff.liveblog.pro
 style.org
 styles.redditmedia.com
+sub.viafoura.co
 substrate.office.com
 superuser.com
 support.bell.ca
@@ -655,10 +678,12 @@ theaircurrent.com
 themes.googleusercontent.com
 threatpost.com
 tile-service.weather.microsoft.com
+tiles.r53-2.services.mozilla.com
 tiles.services.mozilla.com
 tlu.dl.delivery.mp.microsoft.com
 token.r53-2.services.mozilla.com
 token.services.mozilla.com
+toolswatch.org
 torrentfreak.com
 tracker.coppersurfer.tk
 tracker.opentrackr.org
@@ -696,6 +721,7 @@ vip1.g5.cachefly.net
 voledevice-pa.googleapis.com
 vortex.accuweather.com
 vortex.data.microsoft.com
+vox-chorus.map.fastly.net
 vuhwsasceshfqun
 vwvtypsj
 w5ww9q.bn.files.1drv.com
@@ -725,6 +751,7 @@ www.cheatsheet.com
 www.chronicle.su
 www.cnn.com
 www.csoonline.com
+www.darkoperator.com
 www.darkreading.com
 www.dezeen.com
 www.dshield.org
@@ -749,6 +776,7 @@ www.guardian.co.uk
 www.hackerfactor.com
 www.hackingarticles.in
 www.hackmageddon.com
+www.hackmageddon.com.cdn.cloudflare.net
 www.hackthissite.org
 www.helloandroid.com
 www.helpnetsecurity.com
@@ -772,6 +800,7 @@ www.msftconnecttest.com
 www.myopenrouter.com
 www.nationalgeographic.com
 www.netscout.com
+www.netscout.com.cdn.cloudflare.net
 www.niemanlab.org
 www.nytimes.com
 www.ospserver.net
@@ -784,6 +813,7 @@ www.purevpn.com.cdn.cloudflare.net
 www.reddit.com
 www.redditstatic.com
 www.sapiens.org
+www.schneier.com
 www.seclists.org
 www.securelist.com
 www.securityweek.com
@@ -811,6 +841,7 @@ www.yahoo.com
 www.youtube.com
 www.zdnet.com
 www.zscaler.com
+www3.l.google.com
 www4.l.google.com
 xe.cocomobi.com
 xtra2.gpsonextra.net
