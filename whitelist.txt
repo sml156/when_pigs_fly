@@ -191,6 +191,7 @@ core.windows.net
 cornell.edu
 cringely.com
 crl.microsoft.com
+crontab.guru
 cryptauthenrollment.googleapis.com
 crystal-lang.org
 cse.google.com
@@ -592,6 +593,7 @@ pi.hole
 pill.com
 pinterest.com
 pixel.wp.com
+platform.leolabs.space
 platform.twitter.com
 play.google.com
 playback.akamaized.net
