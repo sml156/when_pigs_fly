@@ -166,6 +166,7 @@ content-signature.cdn.mozilla.net
 content.invisioncic.com
 content.spiceworksstatic.com
 cp601-prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
 cp801-prod.do.dsp.mp.microsoft.com
 crashlytics.com
 criticalmas.org
@@ -183,6 +184,7 @@ d2k03kvdk5cku0.cloudfront.net
 d2p9n28p7hn39l.cloudfront.net
 d2spmqy4pos7su.cloudfront.net
 d3p2jlw8pmhccg.cloudfront.net
+d6wjo2hisqfy2.cloudfront.net
 dbl.oisd.nl
 dc.di.atlas.samsung.com
 detectportal.firefox.com
@@ -214,6 +216,7 @@ download.windowsupdate.com
 downloads.openwrt.org
 downloads.sourceforge.net
 drive.google.com
+dualstack.f3.shared.global.fastly.net
 dwgyu36up6iuz.cloudfront.net
 dwkujuq9vpuly.cloudfront.net
 e.crashlytics.com
@@ -227,6 +230,8 @@ e4280.g.akamaiedge.net
 e4346.g.akamaiedge.net
 e5803.b.akamaiedge.net
 e5952.b.akamaiedge.net
+e6653.f.akamaiedge.net
+e8220.dscd.akamaiedge.net
 e8798.b.akamaiedge.net
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
@@ -293,11 +298,13 @@ fp.msedge.net
 framebyframewifi.net
 freedom-to-tinker.com
 g.live.com
+gala.spiceworks.com
 galaxy-s8.lan
 gateway.reddit.com
 gekko-130480997.us-east-1.elb.amazonaws.com
 gekko.spiceworks.com
 geo-prod.do.dsp.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
 geo.yahoo.com
 geoff.greer.fm
 geomobileservices-pa.googleapis.com
@@ -349,6 +356,7 @@ howtogeek.disqus.com
 hphosts.blogspot.com
 hq.talkingpointsmemo.com
 i-38.b-45146.ut.bench.utorrent.com
+i-5600.b-204.helper.bench.utorrent.com
 i-64.b-45146.ut.bench.utorrent.com
 i.cbc.ca
 i.dslr.net
@@ -373,10 +381,12 @@ icz0vn7a.easyredirengine.com
 id.google.ca
 id4.airdroid.com
 idg.map.fastly.net
+ie3h7du.x.incapdns.net
 ii.techdirt.com
 images-na.ssl-images-amazon.com
 images.thestar.com
 images.wsj.net
+imap.gmail.com
 imasdk.googleapis.com
 img-getpocket.cdn.mozilla.net
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -411,9 +421,12 @@ kinja.com
 knopper.net
 kqxpsa.bn.files.1drv.com
 krebsonsecurity.com
+krypt3ia.wordpress.com
 kv601-prod.do.dsp.mp.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
 kv801-prod.do.dsp.mp.microsoft.com
 kx7kog.bn.files.1drv.com
+l3.shared.global.fastly.net
 lb.airdroid.com
 lb.wordpress.com
 leandromoreira.com.br
@@ -485,6 +498,7 @@ nextwebblogs.thenextweb.netdna-cdn.com
 nexus.officeapps.live.com
 nir.regmedia.co.uk
 normandy.cdn.mozilla.net
+notifications.spiceworks.com
 now.bt.co
 nsidc.org
 nytimes.map.fastly.net
@@ -591,6 +605,7 @@ rss.computerworld.com
 rss.packetstormsecurity.com
 rss.slashdot.org
 s.reddit.com
+s.w-x.co
 s.yimg.com
 s0.wp.com
 s1.files.wordpress.com
@@ -754,6 +769,7 @@ www.csoonline.com
 www.darkoperator.com
 www.darkreading.com
 www.dezeen.com
+www.digininja.org
 www.dshield.org
 www.dslreports.com
 www.dw.com
