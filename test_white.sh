@@ -35,6 +35,16 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/regex.lis
 wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
 #wget -qO - https://v.firebog.net/hosts/lists.php?type=all | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
 
+# Appened some new lists -2019-11-11 04:50:05
+# Ads & Tracking
+wget -qO - https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt | tee -a /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+# Tracking Aggressive
+wget -qO - https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt | tee -a /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+# AMP Hosts
+wget -qO - https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt | tee -a /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+
+
+
 # ##############################################
 # Template to add more domains NOTE: Be aware whether you want to append EG:  -a  or not append
 # echo "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" | sudo tee -a /etc/pihole/adlists.list > /dev/null
