@@ -212,6 +212,7 @@ dezeen.com
 dfkrkqaqb1zsx.cloudfront.net
 diablohorn.files.wordpress.com
 didierstevens.files.wordpress.com
+digi.ninja
 digitalocean.com
 discourse-cdn-aws1.com
 discourse-cdn-sjc3.com
