@@ -37,11 +37,11 @@ wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross | tee /etc/pihole/
 
 # Appened some new lists -2019-11-11 04:50:05
 # Ads & Tracking
-echo "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+echo "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "apended1 Downloaded"  || echo "apended1 Failed Download"
 # Tracking Aggressive
-echo "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+echo "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "apended2 Downloaded"  || echo "apended2 Failed Download"
 # AMP Hosts
-echo "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+echo "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt" | sudo tee -a /etc/pihole/adlists.list > /dev/null && echo OK "apended3 Downloaded"  || echo "apended3 Failed Download"
 
 
 
