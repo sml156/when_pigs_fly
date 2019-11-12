@@ -7,7 +7,9 @@
 # Run script
 # sudo ./test_white.sh
 # ##############################################
-
+# Renove all old lists
+rm -r /etc/pihole/*.list && echo "OK .list removed" || echo ".list Failed to remove"
+rm -r /etc/pihole/*.domains && echo "OK .domains removed" || echo ".domains failed to remove"
 # ##############################################
 # My blacklist on github
 # ##############################################
