@@ -31,10 +31,13 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/regex.lis
 # Remove comment from only one, Do not use all
 # ##############################################
 
-#wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
-echo "https://v.firebog.net/hosts/lists.php?type=nocross" | sudo tee -a /etc/pihole/adlists.list > /dev/null
-# wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
-#wget -qO - https://v.firebog.net/hosts/lists.php?type=all | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+curl -sS https://v.firebog.net/hosts/lists.php?type=nocross | sudo tee /etc/pihole/adlists.list 1>/dev/null && echo "OK wally" || echo "wally Blacklist Failed"
+
+
+### wget -qO - https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+### echo "https://v.firebog.net/hosts/lists.php?type=nocross" | sudo tee /etc/pihole/adlists.list > /dev/null
+### wget -qO - https://v.firebog.net/hosts/lists.php?type=nocross | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
+### wget -qO - https://v.firebog.net/hosts/lists.php?type=all | tee /etc/pihole/adlists.list 1>/dev/null && echo OK "wally3k Downloaded"  || echo "wally3k Failed Download"
 
 # something wrong here worked fine yesterday
 # Appened some new lists from https://www.github.developerdan.com/hosts/ -2019-11-11 04:50:05
