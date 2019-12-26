@@ -628,6 +628,7 @@ qme.mydns.jp
 queue.acm.org
 r-login.wordpress.com
 r000t.com
+rabbitears.info
 ransomwaretracker.abuse.ch
 raspberrypi.org
 raw.github.com
@@ -1552,6 +1553,7 @@ www.qme.mydns.jp
 www.queue.acm.org
 www.r-login.wordpress.com
 www.r000t.com
+www.rabbitears.info
 www.ransomwaretracker.abuse.ch
 www.raspberrypi.org
 www.raw.github.com
