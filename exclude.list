@@ -5,6 +5,7 @@
 1kqj8wt.feedproxy.ghs.google.com
 2.android.pool.ntp.org
 3.bp.blogspot.com
+47mal.x.incapdns.net
 5sglr.x.incapdns.net
 6396l.x.incapdns.net
 9rueu7.feedproxy.ghs.google.com
@@ -33,6 +34,7 @@ android.clients.google.com
 android.googleapis.com
 androidpolice.disqus.com
 api-cdn.embed.ly
+api-global.netflix.com
 api.accounts.firefox.com
 api.accuweather.com
 api.asm.skype.com
@@ -55,6 +57,7 @@ apidata.googleusercontent.com
 apis.google.com
 app-measurement.com
 app.adjust.com
+appboot.netflix.com
 arc.msn.com
 archive.ubuntu.com
 archsofty.files.wordpress.com
@@ -74,7 +77,9 @@ avatars2.githubusercontent.com
 avatars3.githubusercontent.com
 aws.api.pelmorex.com
 ayera.dl.sourceforge.net
+b.thumbs.redditmedia.com
 balrog-aus5.r53-2.services.mozilla.com
+balrog-cloudfront.prod.mozaws.net
 bbs.boingboing.net
 betanews.com
 bitbucket.org
@@ -83,6 +88,7 @@ blob.weather.microsoft.com
 blobscdn.gitbook.com
 blocklists.settings.services.mozilla.com
 blog.avast.com
+blog.benjojo.co.uk
 blog.cloudflare.com
 blog.didierstevens.com
 blog.erratasec.com
@@ -94,6 +100,7 @@ blogs.technet.microsoft.com
 blogspot.l.googleusercontent.com
 blogtown.co.nz
 bn1305.storage.live.com
+bn3pap002.device.ra.live.com
 boingboing.hosted-by-discourse.com
 boingboing.net
 books.google.com
@@ -111,6 +118,7 @@ camo.githubusercontent.com
 carddav.address.yahoo.com
 carnal0wnage.attackresearch.com
 carnal0wnage.blogspot.com
+catless.ncl.ac.uk
 ccleaner.tools.avcdn.net
 cdn-images-1.medium.com
 cdn.afterdawn.fi
@@ -122,6 +130,7 @@ cdn.embed.ly.cdn.cloudflare.net
 cdn.embedly.com
 cdn.ilovefreesoftware.com
 cdn.jsdelivr.net
+cdn.jwplayer.com
 cdn.mobilesyrup.com
 cdn.neow.in
 cdn.onenote.net
@@ -131,6 +140,7 @@ cdn.viafoura.net
 cdn.vox-cdn.com
 cdn0.tnwcdn.com
 cdnjs.cloudflare.com
+cdpcs.microsoft.com
 cds.b5g9b8e4.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
 cent.spots.im
@@ -150,6 +160,7 @@ cloud.feedly.com
 cloudconfig.googleapis.com
 code.jquery.com
 codeload.github.com
+codex.nflxext.com
 coin.amazonpay.com
 collector-medium.lightstep.com
 collector.githubapp.com
@@ -162,9 +173,11 @@ config.teams.microsoft.com
 connectapi.garmin.com
 connectivitycheck.gstatic.com
 console-cowboys.blogspot.com
+content-signature-2.cdn.mozilla.net
 content-signature.cdn.mozilla.net
 content.invisioncic.com
 content.spiceworksstatic.com
+cp501.prod.do.dsp.mp.microsoft.com
 cp601-prod.do.dsp.mp.microsoft.com
 cp601.prod.do.dsp.mp.microsoft.com
 cp801-prod.do.dsp.mp.microsoft.com
@@ -172,6 +185,7 @@ crashlytics.com
 criticalmas.org
 crl.microsoft.com
 cryptauthenrollment.googleapis.com
+cs-ssl02v.ncl.ac.uk
 cs.dds.microsoft.com
 cs629.wpc.lambdacdn.net
 cs9.wac.phicdn.net
@@ -181,10 +195,13 @@ d.docs.live.net
 d15zn84cat5tp0.cloudfront.net
 d1w68ehwsjmeq0.cloudfront.net
 d2k03kvdk5cku0.cloudfront.net
+d2nxq2uap88usk.cloudfront.net
 d2p9n28p7hn39l.cloudfront.net
 d2spmqy4pos7su.cloudfront.net
 d3p2jlw8pmhccg.cloudfront.net
 d6wjo2hisqfy2.cloudfront.net
+darknet.org.uk
+data.tvdownload.microsoft.com
 dbl.oisd.nl
 dc.di.atlas.samsung.com
 detectportal.firefox.com
@@ -195,6 +212,7 @@ di1.ypncdn.com
 diablohorn.com
 diablohorn.wordpress.com
 directory.services.live.com
+disc501.prod.do.dsp.mp.microsoft.com
 disc801-prod.do.dsp.mp.microsoft.com
 discourse-cdn-aws1.com
 discourse-cdn-sjc3.com
@@ -217,6 +235,7 @@ downloads.openwrt.org
 downloads.sourceforge.net
 drive.google.com
 dualstack.f3.shared.global.fastly.net
+dualstack.guardian.map.fastly.net
 dwgyu36up6iuz.cloudfront.net
 dwkujuq9vpuly.cloudfront.net
 e.crashlytics.com
@@ -224,6 +243,7 @@ e11929.e12.akamaiedge.net
 e13678.dspb.akamaiedge.net
 e1524.e12.akamaiedge.net
 e16936.a.akamaiedge.net
+e16936.d.akamaiedge.net
 e3030.g.akamaiedge.net
 e3891.dscf.akamaiedge.net
 e4280.g.akamaiedge.net
@@ -235,8 +255,11 @@ e8220.dscd.akamaiedge.net
 e8798.b.akamaiedge.net
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
+edge.skype.com
 edge.spiceworksstatic.com
 eff.map.fastly.net
+emdl.ws.microsoft.com
+emoji.redditmedia.com
 emupdate.avcdn.net
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -252,6 +275,8 @@ eztv.io
 f-droid.org
 f1-na.readspeaker.com
 fallback-v4.ipv6-test.com
+fallback-v6.ipv6-test.com
+fark-usrimg-850.nyc3.digitaloceanspaces.com
 farkimg.sfo2.cdn.digitaloceanspaces.com
 farkuserimg-850.sfo2.digitaloceanspaces.com
 farm3.static.flickr.com
@@ -261,6 +286,7 @@ fast.com
 fave.api.cnn.io
 fceos.x.incapdns.net
 fe2.update.microsoft.com
+fe2cr.update.microsoft.com
 fe3.delivery.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 feed.ctrl.blog
@@ -287,6 +313,7 @@ firefoxusercontent.com
 fls-na.amazon.com
 fnrjttqmiz
 followshows.com
+fontawesome-cdn.fonticons.netdna-cdn.com
 fonts.googleapis.com
 fonts.gstatic.com
 footprints-pa.googleapis.com
@@ -345,11 +372,13 @@ hackadaycom.files.wordpress.com
 hackadaycom.wordpress.com
 hackingarticles.in
 hackmageddon.com
+hackread.com
 hbtasx.feedproxy.ghs.google.com
 heartbeat.fritz.ai
 helpdeskgeek.com
 herald.spiceworks.com
 history.google.com
+holisticinfosec.io
 hosts-file.net
 hostsfile.org
 howtogeek.disqus.com
@@ -422,11 +451,13 @@ knopper.net
 kqxpsa.bn.files.1drv.com
 krebsonsecurity.com
 krypt3ia.wordpress.com
+kv501.prod.do.dsp.mp.microsoft.com
 kv601-prod.do.dsp.mp.microsoft.com
 kv601.prod.do.dsp.mp.microsoft.com
 kv801-prod.do.dsp.mp.microsoft.com
 kx7kog.bn.files.1drv.com
 l3.shared.global.fastly.net
+lan.lan
 lb.airdroid.com
 lb.wordpress.com
 leandromoreira.com.br
@@ -449,6 +480,7 @@ m.media-amazon.com
 mail.google.com
 makespectrumgreatagain.com
 malwarebytes.wpengine.com
+maps.googleapis.com
 maps.googleblog.com
 marfeel.map.fastly.net
 matrix.org
@@ -461,6 +493,7 @@ media.lan
 media.npr.org
 media.threatpost.com
 media.wired.com
+mediacenter.microsoft.com
 mediawiki.org
 medium.com
 microsoftapps.azurewebsites.net
@@ -473,6 +506,7 @@ mobile.pipe.aria.microsoft.com
 mobilecrashreporting.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilesyrup.com
+mozilla.org
 msrc-blog.microsoft.com
 mtalk.google.com
 mtalk4.google.com
@@ -500,10 +534,14 @@ nir.regmedia.co.uk
 normandy.cdn.mozilla.net
 notifications.spiceworks.com
 now.bt.co
+nrdp.prod.ftl.netflix.com
 nsidc.org
 nytimes.map.fastly.net
 o.aolcdn.com
 oauth.reddit.com
+occ-0-1116-999.1.nflxso.net
+occ-1-1116-999.1.nflxso.net
+occ-2-1116-999.1.nflxso.net
 ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.digicert.com
@@ -513,7 +551,9 @@ ocsp.int-x3.letsencrypt.org
 ocsp.msocsp.com
 ocsp.pki.goog
 ocsp.sca1b.amazontrust.com
+ocsp.sectigo.com
 ocsp.starfieldtech.com
+ocsp.usertrust.com
 ocsp2.globalsign.com
 odc.officeapps.live.com
 old.reddit.com
@@ -523,6 +563,7 @@ oneclient.sfx.ms
 onepush.query.yahoo.com
 onerm.olsvc.com
 open-commenting.azureedge.net
+openwrt.lan
 openwrt.org
 operamini-sub.osp.opera.software
 osmand.net
@@ -560,6 +601,7 @@ polyfill.io
 portableapps.com
 powershellgallery.com
 practicalnetworking.net
+prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.guardian.map.fastlylb.net
 prod.imgur.map.fastlylb.net
@@ -571,6 +613,7 @@ profile.accounts.firefox.com
 proton.flurry.com
 psg-prod-eastus.cloudapp.net
 public-api.wordpress.com
+purchase.mp.microsoft.com
 push.airdroid.com
 push.services.mozilla.com
 pwapi.washingtonpost.com
@@ -598,6 +641,7 @@ reports.crashlytics.com
 research.zscaler.com
 resources.stuff.co.nz
 roaming.officeapps.live.com
+romeccs.microsoft.com
 router.bittorrent.com
 router.utorrent.com
 rss.accuweather.com
@@ -623,9 +667,11 @@ scontent.xx.fbcdn.net
 search.services.mozilla.com
 seclists.org
 secure.gravatar.com
+secure.netflix.com
 securelist.com
 security.googleblog.com
 security.ubuntu.com
+semiaccurate.com
 serverwmc.github.io
 service.game-mode.net
 service.weather.microsoft.com
@@ -691,6 +737,7 @@ techdows.com
 tfsrv.x.incapdns.net
 theaircurrent.com
 themes.googleusercontent.com
+thenextweb.com
 threatpost.com
 tile-service.weather.microsoft.com
 tiles.r53-2.services.mozilla.com
@@ -703,26 +750,32 @@ torrentfreak.com
 tracker.coppersurfer.tk
 tracker.opentrackr.org
 trouter-cus-b.trouter.skype.com
+tv9.lan
 twimgs.com
 twitter.com
 typelevel.org
 uc-file.airdroid.com
 udc.yahoo.com
 unitedstates.smartscreen-prod.microsoft.com
+update.bittorrent.com
 update.googleapis.com
 upload.wikimedia.org
 uploads.disquscdn.com
 uploads.guim.co.uk
 ureca.samsungapps.com
 us1rgn.file.samsungcloud.com
+use.fontawesome.com
 use.typekit.net
 user-images.githubusercontent.com
 v.firebog.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
+v4-zone6.ipv6-test.com
 v4.ipv6-test.com
 v4.zone6.ipv6-test.com
 v4v6.ipv6-test.com
+v6-zone4.ipv6-test.com
+v6-zone6.ipv6-test.com
 v6.ipv6-test.com
 v6.zone4.ipv6-test.com
 v6.zone6.ipv6-test.com
@@ -752,6 +805,7 @@ woodgears.ca
 wpad.lan
 ws.dslr.net
 www.addictivetips.com
+www.aircrack-ng.org
 www.androidpolice.com
 www.bbc.com
 www.bell.ca
@@ -766,6 +820,7 @@ www.cheatsheet.com
 www.chronicle.su
 www.cnn.com
 www.csoonline.com
+www.darknet.org.uk
 www.darkoperator.com
 www.darkreading.com
 www.dezeen.com
@@ -793,6 +848,7 @@ www.hackerfactor.com
 www.hackingarticles.in
 www.hackmageddon.com
 www.hackmageddon.com.cdn.cloudflare.net
+www.hackread.com
 www.hackthissite.org
 www.helloandroid.com
 www.helpnetsecurity.com
@@ -857,6 +913,7 @@ www.yahoo.com
 www.youtube.com
 www.zdnet.com
 www.zscaler.com
+www.zscaler.com.cdn.cloudflare.net
 www3.l.google.com
 www4.l.google.com
 xe.cocomobi.com
