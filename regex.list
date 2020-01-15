@@ -25,6 +25,5 @@
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[-.]
 ^telemetry[-.]
-^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
 ^wpad?[-.]
