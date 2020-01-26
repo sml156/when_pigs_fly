@@ -7,7 +7,6 @@ sudo chmod a+x test_white.sh
 sudo ./test_white.sh
 
 option6 - IPv4
-
 option6 - IPv6
 
 sudo nano /etc/dnsmasq.d/02-pihole-dhcp-DNS.conf
