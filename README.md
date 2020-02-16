@@ -1,4 +1,4 @@
-New way 2020-7-15\
+New way 2020-7-15  
 Pihole beta 5
 
 wget -qO - https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist-up.sh > adlist-up.sh<br/>
