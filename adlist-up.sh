@@ -7,6 +7,13 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist
 
 PIHOLE_DIR="/etc/pihole"
 ADLIST_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
+# Ads & Tracking -Updated semi regular-
+echo "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt" | tee -a /etc/pihole/adlists.list > /dev/null && echo "OK My apended1 Downloaded"  || echo "My apended1 Failed Download"
+# Tracking Aggressive -Updated semi regular-
+echo "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt" | tee -a /etc/pihole/adlists.list > /dev/null && echo "OK My apended2 Downloaded"  || echo "My apended2 Failed Download"
+# AMP Hosts -Updated semi regular-
+echo "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt" | tee -a /etc/pihole/adlists.list > /dev/null && echo "OK My apended3 Downloaded"  || echo "My apended3 Failed Download"
+
 CLEAN_ADLISTS_BEFORE_UPDATE=true
 
 
