@@ -6,7 +6,7 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/black.lis
 curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt | tee /etc/pihole/whitelist.txt 1>/dev/null && echo "OK My Whitelist copied" || echo "My Whitelist Failed"
 
 PIHOLE_DIR="/etc/pihole"
-ADLIST_URL="https://v.firebog.net/hosts/lists.php?type=tick"
+ADLIST_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
 CLEAN_ADLISTS_BEFORE_UPDATE=true
 
 
