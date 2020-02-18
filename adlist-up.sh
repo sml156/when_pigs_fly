@@ -1,8 +1,12 @@
 #!/bin/bash
 # copy pasted from " https://github.com/dMopp/pihole5-adlist-update-cron "
 #####CHANGE STUFF HERE
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt | tee /etc/pihole/blacklist.txt 1>/dev/null && echo "OK My Blacklist Copied" || echo "My Blacklist Failed"
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/black.list | tee /etc/pihole/black.list 1>/dev/null && echo "OK My Blacklist2 Copied" || echo "My Blacklist2 Failed"
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt | tee /etc/pihole/whitelist.txt 1>/dev/null && echo "OK My Whitelist copied" || echo "My Whitelist Failed"
+
 PIHOLE_DIR="/etc/pihole"
-ADLIST_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
+ADLIST_URL="https://v.firebog.net/hosts/lists.php?type=tick"
 CLEAN_ADLISTS_BEFORE_UPDATE=true
 
 
