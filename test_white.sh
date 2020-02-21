@@ -15,7 +15,7 @@
 # ##############################################
 
 curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt | tee /etc/pihole/blacklist.txt 1>/dev/null && echo "OK My Blacklist Copied" || echo "My Blacklist Failed"
-# curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/black.list | tee /etc/pihole/black.list 1>/dev/null && echo "OK My Blacklist2 Copied" || echo "My Blacklist2 Failed"
+
 # ##############################################
 # My Whitelist on github
 # ##############################################
