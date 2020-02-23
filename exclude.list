@@ -27,6 +27,8 @@ airdroid-img2.s3.amazonaws.com
 ajax.aspnetcdn.com
 ajax.googleapis.com
 ak-dn.gw.samsungapps.com
+alphacybersecurity.tech
+amazon.com
 analytics.localytics.com
 analytics.query.yahoo.com
 android-safebrowsing.google.com
@@ -38,7 +40,9 @@ api-global.netflix.com
 api.accounts.firefox.com
 api.accuweather.com
 api.asm.skype.com
+api.euro.hismarttv.com
 api.fast.com
+api.fing.io
 api.github.com
 api.login.yahoo.com
 api.nextgen.guardianapps.co.uk
@@ -58,6 +62,7 @@ apis.google.com
 app-measurement.com
 app.adjust.com
 appboot.netflix.com
+apple.com
 arc.msn.com
 archive.ubuntu.com
 archsofty.files.wordpress.com
@@ -143,6 +148,7 @@ cdnjs.cloudflare.com
 cdpcs.microsoft.com
 cds.b5g9b8e4.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
+cds.s5x3j6q5.hwcdn.net
 cent.spots.im
 cfhcable.dl.sourceforge.net
 changelogs.ubuntu.com
@@ -158,6 +164,8 @@ clients3.google.com
 cloud.addictivetips.com
 cloud.feedly.com
 cloudconfig.googleapis.com
+cloudflare.com
+cmg.cbsi.map.fastly.net
 code.jquery.com
 codeload.github.com
 codex.nflxext.com
@@ -187,6 +195,7 @@ crl.microsoft.com
 cryptauthenrollment.googleapis.com
 cs-ssl02v.ncl.ac.uk
 cs.dds.microsoft.com
+cs11.wpc.v0cdn.net
 cs629.wpc.lambdacdn.net
 cs9.wac.phicdn.net
 cse.google.com
@@ -240,6 +249,7 @@ dwgyu36up6iuz.cloudfront.net
 dwkujuq9vpuly.cloudfront.net
 e.crashlytics.com
 e11929.e12.akamaiedge.net
+e13630.dscb.akamaiedge.net
 e13678.dspb.akamaiedge.net
 e1524.e12.akamaiedge.net
 e16936.a.akamaiedge.net
@@ -265,9 +275,11 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
+enp3s0
 erratasec.blogspot.com
 evoke-windowsservices-tas.msedge.net
 ext-cust.squarespace.com
+external-content.duckduckgo.com
 external-preview.redd.it
 external.fyyz1-1.fna.fbcdn.net
 ezimg.ch
@@ -285,6 +297,7 @@ farm8.staticflickr.com
 fast.com
 fave.api.cnn.io
 fceos.x.incapdns.net
+fcmconnection.googleapis.com
 fe2.update.microsoft.com
 fe2cr.update.microsoft.com
 fe3.delivery.mp.microsoft.com
@@ -338,6 +351,8 @@ geomobileservices-pa.googleapis.com
 getpocket.cdn.mozilla.net
 ggzscjytvidq
 ghs.google.com
+ghs.googlehosted.com
+ghs.googlehosted.com0
 gist.github.com
 gitcdn.xyz
 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -379,6 +394,7 @@ helpdeskgeek.com
 herald.spiceworks.com
 history.google.com
 holisticinfosec.io
+hostfiles.frogeye.fr
 hosts-file.net
 hostsfile.org
 howtogeek.disqus.com
@@ -405,12 +421,14 @@ i2.wp.com
 i5.lan
 i9.ytimg.com
 ichef.bbci.co.uk
+ichnaea.netflix.com
 icons.duckduckgo.com
 icz0vn7a.easyredirengine.com
 id.google.ca
 id4.airdroid.com
 idg.map.fastly.net
 ie3h7du.x.incapdns.net
+ieee.org
 ii.techdirt.com
 images-na.ssl-images-amazon.com
 images.thestar.com
@@ -432,6 +450,7 @@ inoreader.com
 instantmessaging-pa.googleapis.com
 int.nyt.com
 interactives.stuff.co.nz
+internetcheck.fing.io
 intrusiontruth.wordpress.com
 ip-info.ff.avast.com
 ipv6-test.com
@@ -496,6 +515,7 @@ media.wired.com
 mediacenter.microsoft.com
 mediawiki.org
 medium.com
+microsoft.com
 microsoftapps.azurewebsites.net
 milk.com
 mini5.opera-mini.net
@@ -506,6 +526,7 @@ mobile.pipe.aria.microsoft.com
 mobilecrashreporting.googleapis.com
 mobilemaps-pa.googleapis.com
 mobilesyrup.com
+motd.ubuntu.com
 mozilla.org
 msrc-blog.microsoft.com
 mtalk.google.com
@@ -534,6 +555,7 @@ nir.regmedia.co.uk
 normandy.cdn.mozilla.net
 notifications.spiceworks.com
 now.bt.co
+nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
 nsidc.org
 nytimes.map.fastly.net
@@ -640,6 +662,7 @@ reminders-pa.googleapis.com
 reports.crashlytics.com
 research.zscaler.com
 resources.stuff.co.nz
+ripe.net
 roaming.officeapps.live.com
 romeccs.microsoft.com
 router.bittorrent.com
@@ -684,6 +707,7 @@ shavar.services.mozilla.com
 skyapi.live.net
 skydrive.wns.windows.com
 skydrivesync.policies.live.net
+slashdot.org
 sls.update.microsoft.com
 sml
 sml.lan
@@ -750,6 +774,7 @@ torrentfreak.com
 tracker.coppersurfer.tk
 tracker.opentrackr.org
 trouter-cus-b.trouter.skype.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 tv9.lan
 twimgs.com
 twitter.com
@@ -797,15 +822,19 @@ watson.telemetry.microsoft.com
 waws-prod-dm1-141.cloudapp.net
 wdcp.microsoft.com
 weather-flickr-yql.media.yahoo.com
+web.whatsapp.com
 webextensions.settings.services.mozilla.com
+webredir.gandi.net
 whnt.com
 win10-trt.msedge.net
 winhelp2002.mvps.org
 woodgears.ca
 wpad.lan
 ws.dslr.net
+ww-hb.fing.io
 www.addictivetips.com
 www.aircrack-ng.org
+www.amazon.com
 www.androidpolice.com
 www.bbc.com
 www.bell.ca
@@ -832,10 +861,12 @@ www.eff.org
 www.ehackingnews.com
 www.engadget.com
 www.exploit-monday.com
+www.facebook.com
 www.fark.com
 www.fireeye.com
 www.gadgetish.com
 www.ghacks.net
+www.github.developerdan.com
 www.google.ca
 www.google.com
 www.googleadservices.com
@@ -861,6 +892,8 @@ www.itprotoday.com.cdn.cloudflare.net
 www.joewein.net
 www.kb.cert.org
 www.knopper.net
+www.krontech.ca
+www.labnol.org
 www.latimes.com
 www.listchallenges.com
 www.macrumors.com
@@ -871,6 +904,7 @@ www.microsoft.com
 www.msftconnecttest.com
 www.myopenrouter.com
 www.nationalgeographic.com
+www.netflix.com
 www.netscout.com
 www.netscout.com.cdn.cloudflare.net
 www.niemanlab.org
