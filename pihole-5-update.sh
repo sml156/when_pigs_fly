@@ -1,5 +1,6 @@
 #!/bin/bash
-# https://raw.githubusercontent.com/dmginc/pihole/master/updater_beta.sh
+# copy pasted from https://raw.githubusercontent.com/dmginc/pihole/master/updater_beta.sh
+# https://github.com/dmginc/pihole
 # change url for curl commands
 timestamp=`date '+%Y%m%d%H%M%S'`;
 
