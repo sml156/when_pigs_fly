@@ -12,7 +12,7 @@ timestamp=`date '+%Y%m%d%H%M%S'`;
 /usr/bin/sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist";
 
 #Import new whitelist domains
-for domain in `https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt`
+for domain in `curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/whitelist.txt`
 do
 id=$((id+1))
 	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO domainlist VALUES ($id, 0, '$domain', 1, date('now'), date ('now'), '');"
