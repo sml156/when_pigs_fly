@@ -1,6 +1,10 @@
 New way for adlist only 2020-7-15  
 Pihole beta 5
 
+wget -qO - https://raw.githubusercontent.com/sml156/when_pigs_fly/master/pihole-5-update.sh > pihole-5-update.sh
+sudo chmod a+x pihole-5-update.sh
+sudo ./pihole-5-update.sh
+
 wget -qO - https://raw.githubusercontent.com/sml156/when_pigs_fly/master/adlist-up.sh > adlist-up.sh  
 sudo chmod a+x adlist-up.sh  
 sudo ./adlist-up.sh
