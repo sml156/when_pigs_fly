@@ -369,6 +369,7 @@ hostsfile.mine.nu
 hostsfile.org
 howtogeek.com
 howtogeek.disqus.com
+https://www.publicdns.xyz/country/
 hubspot.com
 hulu.com
 i.guim.co.uk
@@ -622,6 +623,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 psg-prod-eastus.cloudapp.net
 public-api.wordpress.com
+public-dns.info
 publicsuffix.org
 pubsub.plex.bz
 pubsub.plex.tv
