@@ -32,7 +32,7 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/regex.lis
 # Pi-Hole's block lists from https://wally3k.github.io
 # ##############################################
 
-echo " https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist_sites" | tee /etc/pihole/adlists.list 1>/dev/null && echo "OK My Github Downloaded"  || echo "My Github Failed"
+echo "https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist_sites" | tee /etc/pihole/adlists.list 1>/dev/null && echo "OK My Github Downloaded"  || echo "My Github Failed"
 # Only pick one of these
 ### curl -sS https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/adlists.list 1>/dev/null && echo "OK wally3k Downloaded"  || echo "wally3k Failed"
 # curl -sS https://v.firebog.net/hosts/lists.php?type=nocross | tee /etc/pihole/adlists.list 1>/dev/null && echo "OK wally3k Downloaded"  || echo "wally3k Failed"
