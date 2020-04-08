@@ -8,14 +8,14 @@
 # sudo ./test_white.sh
 # ##############################################
 # Renove all old lists
-# rm -r /etc/pihole/*.list && echo "OK .list removed" || echo ".list Failed to remove"
-# rm -r /etc/pihole/*.domains && echo "OK .domains removed" || echo ".domains failed to remove"
+rm -r /etc/pihole/*.list && echo "OK .list removed" || echo ".list Failed to remove"
+rm -r /etc/pihole/*.domains && echo "OK .domains removed" || echo ".domains failed to remove"
 # ##############################################
 # My blacklist on github
 # ##############################################
 
 curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/blacklist.txt | tee /etc/pihole/blacklist.txt 1>/dev/null && echo "OK My Blacklist Copied" || echo "My Blacklist Failed"
-
+curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/black.list | tee /etc/pihole/black.list 1>/dev/null && echo "OK My Blacklist2 Copied" || echo "My Blacklist2 Failed"
 # ##############################################
 # My Whitelist on github
 # ##############################################
@@ -31,7 +31,6 @@ curl -sS https://raw.githubusercontent.com/sml156/when_pigs_fly/master/regex.lis
 # ##############################################
 # Pi-Hole's block lists from https://wally3k.github.io
 # ##############################################
-
 
 # Only pick one of these
 ### curl -sS https://v.firebog.net/hosts/lists.php?type=tick | tee /etc/pihole/adlists.list 1>/dev/null && echo "OK wally3k Downloaded"  || echo "wally3k Failed"
