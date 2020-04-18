@@ -2,7 +2,7 @@
 (^|\.)ve$
 .(accountant|asia|bid|biz|business|buzz|casa|cc|cf|christmas|cloud|club|cm|cn|country|cozw|cricket|date|desi|dev|download)$
 .(faith|fit|fun|ga|gallery|gdn|gold|gq|host|icu|info|ink|innet|kim|life|loan|ltd|men|ml|mom|ninja|online|page|party|pro|pw|racing)$
-.(realtor|review|ro|ru|ryukyu|science|site|space|stream|support|tel|tk|top|trade|tw|ua|ug|ve|vip|webcam|win|work|world|xin|xn--3ds443g)$
+.(realtor|review|ro|ru|ryukyu|science|site|space|stream|support|tel|tk|top|trade|tw|ua|ug|ve|vip|webcam|win|work|world|xin)$
 .(xn--55qx5d|xn--6qq986b3xl|xn--80adxhks|xn--czru2d|xn--fiqs8s|xn--fiqz9s|xn--io0a7i|xn--p1acf|xyz)$
 ^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
